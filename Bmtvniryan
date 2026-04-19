@@ -4,8 +4,7 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
-#EXTINF:-1 tvg-id="RYANTV-Channel" tvg-name="RYANTV Premium" tvg-logo="" group-title="RYANTV CHANNELS",PPV FUNDURA VS THURMAN
-http://cdn.djdoolky76.net/nbalp/nbalplayoffs.m3u
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y8TaHlk.png" ch-number="" group-title="RYANTV CHANNELS",TAP Silog
 http://tvnijuan.net:25461/live/rictms/rictms/1392.m3u8
