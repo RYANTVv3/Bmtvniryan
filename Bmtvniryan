@@ -1,0 +1,1457 @@
+#EXTM3U
+# Ryantv
+M3U playlist 
+M3U billed-msg="M3U PLAYLIST BY: RYANTV"
+####£#£###££######################222
+
+#EXTINF:-1 tvg-id="RYANTV-Channel" tvg-name="RYANTV Premium" tvg-logo="https://i.imghippo.com/files/XhMl5963ElQ.webp" group-title="RYANTV CHANNELS",PPV FUNDURA VS THURMAN
+https://racsi.short.gy/thurman.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y8TaHlk.png" ch-number="" group-title="RYANTV CHANNELS",TAP Silog
+http://tvnijuan.net:25461/live/rictms/rictms/1392.m3u8
+
+#EXTINF:-1 type="movie" group-title="RYANTV MOVIES 2026" tvg-id="tt6341826" tvg-imdb="tt6341826" tvg-tmdb="1032892" tvg-logo="https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",In the Blink of an Eye (2026)
+#EXTVLCOPT:http-origin=https://amirahtv.art
+#EXTVLCOPT:http-referrer=https://amirahtv.art/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://s3u.mindspirecreative.sbs/v4/db/zblefh/index-f2-v1-a1.txt
+#EXTINF:-1 type="movie" group-title="RYANTV MOVIES 2026" tvg-id="tt15940132" tvg-imdb="tt15940132" tvg-tmdb="1265609" tvg-logo="https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",War Machine (2026)
+#EXTVLCOPT:http-origin=https://amirahtv.art
+#EXTVLCOPT:http-referrer=https://amirahtv.art/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://s3u.mindspirecreative.sbs/v4/ho/w83n33/index-f2-v1-a1.txt
+#EXTINF:-1 type="movie" group-title="RYANTV MOVIES 2026" tvg-id="tt37764737" tvg-imdb="tt37764737" tvg-tmdb="1264805" tvg-logo="https://image.tmdb.org/t/p/w500/ivBI8FRQPIKzoZAryZK93xriOT.jpg",Once We Were Us (2026)
+#EXTVLCOPT:http-origin=https://amirahtv.art
+#EXTVLCOPT:http-referrer=https://amirahtv.art/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://s3u.mindspirecreative.sbs/v4/xy/615jw3/index-f2-v1-a1.txt
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EPR8oKZ.png" codec="auto" ch-number="" group-title="RYANTV CHANNELS",Cartoon Channel PH
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://gia.tv/
+https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
+
+#EXTINF:4 tvg-id="8001B317.0000000000074F18.0062" provider="RYANTV" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/2L3JzLv.png" provider-logo="" provider-type="iptv" ch-number="406" group-title="RYANTV CHANNELS",Heart Of Asia
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 14; CLK-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36"}
+http://103.236.179.86:80/live/rictms/rictms/15266.m3u8
+
+#http://tvnijuan.net:38081/live/rictms/rictms/609.m3u8
+
+#EXTINF:5 tvg-id="8001B317.0000000000074F18.0065" provider="RYANTV" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/fDhBrB4.png" provider-logo="" provider-type="iptv" ch-number="407" group-title="RYANTV CHANNELS",I Heart Movies
+#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 14; CLK-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36"}
+http://103.236.179.86:80/live/rictms/rictms/6175.m3u8
+
+#http://tvnijuan.net:38081/live/rictms/rictms/608.m3u8
+
+
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-One.jpg" ch-number="36" group-title="RYANTV CHANNELS",CinemaOne original
+http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55
+
+#EXTINF:-1 tvg-id="CINEMO!.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinemo.jpg" ch-number="37" group-title="RYANTV CHANNELS",Cinemo original
+http://136.239.158.30:6610/001/2/ch00000090990000001254/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApP1%2FTBq4G4yW%2Bysf7XC2GUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001547&contentid=ch00000000000000001547&videoid=ch00000090990000001254&recommendtype=0&userid=1627619394946&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=ENDPNYXUMN7XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155240172236&ispcode=55
+
+#EXTINF:-1 tvg-id="Jeepney.TV.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Jeepney-TV-March-2022-Highlight-Video-Thumbnail.jpg" ch-number="15" group-title="RYANTV CHANNELS",Jeepney TV
+http://136.239.158.30:6610/001/2/ch00000090990000001250/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApGbNnk2H5Bi8k4yR%2B9AHGFsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001546&contentid=ch00000000000000001546&videoid=ch00000090990000001250&recommendtype=0&userid=1624655152366&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=69N1081CFIMXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446920260101155240033749&ispcode=55
+
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya-Channel-HD.jpg" ch-number="8" group-title="RYANTV CHANNELS",Kapamilya Channel
+http://136.158.97.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1013243321&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="GMA.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/GMA7.png" ch-number="7" group-title="RYANTV CHANNELS",GMA
+http://136.158.97.2:6610/001/2/ch00000090990000001093/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoLvT86fM74ocVChyFS93HUsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001214&contentid=ch00000000000000001214&videoid=ch00000090990000001093&recommendtype=0&userid=1438418816418&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=BLJMICF8T5XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155237367179&ispcode=55
+
+
+#EXTINF:-1 tvg-logo="" group-title="RYANTV CHANNELS", GTV
+http://136.239.158.30:6610/001/2/ch00000090990000001143/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY7wAtJC%2BsmBQ5ARU076BdkhW2QukEgPdTHaavrsdcsbbg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001313&contentid=ch00000000000000001313&videoid=ch00000090990000001143&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1025965250&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://brandlogo.org/wp-content/uploads/2024/05/All-TV-Logo-300x300.png.webp" group-title="RYANTV CHANNELS", ALL TV
+http://136.239.158.10:6610/001/2/ch00000090990000001179/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2Bow35sHUcBhGBpxqddBGYEnytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001415&contentid=ch00000000000000001415&videoid=ch00000090990000001179&recommendtype=0&userid=1205050496206&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=02WMA0HI2O3AXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/6/62/DZRH_TV_Logo_November_2021.png/revision/latest?cb=20211215134648" group-title="RYANTV CHANNELS",DZRH TV
+http://136.239.173.2:6610/001/2/ch00000090990000001174/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BorTFLlVQhyuanlrUuZnA07ytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001322&contentid=ch00000000000000001322&videoid=ch00000090990000001174&recommendtype=0&userid=1099121878948&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=0UTJW5Z23XIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
+
+#EXTINF:-1 tvg-id="hls-3rssine" tvg-name="3rsSinePinoy" tvg-logo="https://i.imghippo.com/files/woNZ2826sEM.jpg" group-title="RYANTV CHANNELS",3rsSinePinoy
+https://live20.bozztv.com/giatvplayout7/giatv-210267/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="hls-moviebox" tvg-name="3rsMovieBoxPh" tvg-logo="https://i.imghippo.com/files/woNZ2826sEM.jpg" group-title="RYANTV CHANNELS",3rsMovieBoxPh
+https://live20.bozztv.com/giatvplayout7/giatv-210731/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="hls-3rstv" tvg-name="3RsTV" tvg-logo="https://i.imghippo.com/files/woNZ2826sEM.jpg" group-title="RYANTV CHANNELS",3RsTV
+https://live20.bozztv.com/giatvplayout7/giatv-210631/tracks-v1a1/mono.ts.m3u8
+
+
+
+******"""""""""""""""""""""""""""""""
+
+
+#EXTINF:-1 tvg-id="" tvg-name="The.Creator.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Creator.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/2914.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nyad.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Nyad.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/2915.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Holdovers.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Holdovers.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/2966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Killers.Of.The.Flower.Moon" tvg-logo="" group-title="RYANTV MOVIES 2025",Killers.Of.The.Flower.Moon
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/2994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Leave.The.World.Behind.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Leave.The.World.Behind.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/2995.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Silent.Night.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Silent.Night.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3062.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel.Moon.-.Part.One.A.Child.Of.Fire.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Rebel.Moon.-.Part.One.A.Child.Of.Fire.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3107.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Society.Of.The.Snow.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Society.Of.The.Snow.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3178.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Marsh.Kings.Daughter.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Marsh.Kings.Daughter.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3179.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Napoleon.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Napoleon.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3188.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Bricklayer.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Bricklayer.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3189.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Lift.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Lift.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3190.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Marvels.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Marvels.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3243.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wonka.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Wonka.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3244.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nedelja 2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Nedelja 2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3259.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ferrari.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Ferrari.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3260.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Beekeeper.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Beekeeper.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3261.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Indigo Kristal 2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Indigo Kristal 2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3269.mkv
+#EXTINF:-1 tvg-id="" tvg-name="American.Fiction.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",American.Fiction.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3270.mkv
+#EXTINF:-1 tvg-id="" tvg-name="In.The.Land.Of.Saints.And.Sinners.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",In.The.Land.Of.Saints.And.Sinners.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Land.Of.Bad.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Land.Of.Bad.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Code.8.Part.II.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Code.8.Part.II.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Cuvari.formule.2023" tvg-logo="" group-title="RYANTV MOVIES 2025",Cuvari.formule.2023
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Damsel.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Damsel.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Madame.Web.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Madame.Web.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Road.House.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Road.House.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dune.Part.Two.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Dune.Part.Two.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel.Moon.-.Part.Two.The.Scargiver.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Rebel.Moon.-.Part.Two.The.Scargiver.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Monkey.Man.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Monkey.Man.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Arthur.The.King.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Arthur.The.King.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3556.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ghostbusters.Frozen.Empire.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Ghostbusters.Frozen.Empire.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3557.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Abigail.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Abigail.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3558.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Ministry.Of.Ungentlemanly.Warfare.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Ministry.Of.Ungentlemanly.Warfare.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3559.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Godzilla.X.Kong.The.New.Empire.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Godzilla.X.Kong.The.New.Empire.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3560.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Atlas.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Atlas.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3561.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Civil.War.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Civil.War.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3562.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Fall.Guy.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Fall.Guy.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3563.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Logjikonomia 19-Frizerat viralë" tvg-logo="" group-title="RYANTV MOVIES 2025",Logjikonomia 19-Frizerat viralë
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Furiosa.A.Mad.Max.Saga.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Furiosa.A.Mad.Max.Saga.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3637.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Beverly.Hills.Cop.Axel.F.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Beverly.Hills.Cop.Axel.F.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3658.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kingdom.Of.The.Planet.Of.The.Apes.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Kingdom.Of.The.Planet.Of.The.Apes.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3659.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Garfield.Movie.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Garfield.Movie.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3660.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Bad.Boys.Ride.Or.Die.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Bad.Boys.Ride.Or.Die.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3760.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.Quiet.Place.Day.One.2024." tvg-logo="" group-title="RYANTV MOVIES 2025",A.Quiet.Place.Day.One.2024.
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3863.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Twisters.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Twisters.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Union.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Union.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Killer.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Killer.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Poslednji.strelac" tvg-logo="" group-title="RYANTV MOVIES 2025",Poslednji.strelac
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3925.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Pokidan.2023." tvg-logo="" group-title="RYANTV MOVIES 2025",Pokidan.2023.
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3926.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Rebel.Ridge.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Rebel.Ridge.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3927.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jorgovani.(2024)" tvg-logo="" group-title="RYANTV MOVIES 2025",Jorgovani.(2024)
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3928.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Deadpool.Wolverine.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Deadpool.Wolverine.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3955.mkv
+#EXTINF:-1 tvg-id="" tvg-name="My.Penguin.Friend.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",My.Penguin.Friend.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3962.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alien.Romulus.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Alien.Romulus.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3965.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Canary.Black 2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Canary.Black 2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/3966.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Megalopolis.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Megalopolis.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Elevation.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Elevation.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4143.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Juror.2.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Juror.2.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4160.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Venom.The.Last.Dance.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Venom.The.Last.Dance.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4166.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Red.One.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Red.One.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4167.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Carry.On.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Carry.On.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4168.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Order.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Order.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4174.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wicked.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Wicked.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4309.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Gladiator.II 2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Gladiator.II 2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4310.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Kraven.The.Hunter.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Kraven.The.Hunter.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Back.In.Action.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Back.In.Action.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Alarum.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Alarum.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Den.Of.Thieves.2.Pantera.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Den.Of.Thieves.2.Pantera.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Babygirl.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Babygirl.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Moana.2.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Moana.2.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Dražen.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Dražen.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ruski.Konzul.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Ruski.Konzul.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Flight.Risk.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Flight.Risk.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Gorge.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Gorge.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Companion.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Companion.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Anora.2024" tvg-logo="" group-title="RYANTV MOVIES 2025",Anora.2024
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Electric.State.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Electric.State.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4519.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Life.List.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Life.List.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4588.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Black.Bag.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Black.Bag.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4591.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Captain.America.Brave.New.World.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Captain.America.Brave.New.World.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4592.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.Working.Man.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",A.Working.Man.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4593.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Havoc.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Havoc.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4594.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Death.Of.A.Unicorn.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Death.Of.A.Unicorn.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4680.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Fountain.Of.Youth.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Fountain.Of.Youth.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4686.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Shadow.Force.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Shadow.Force.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4745.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Accountant.2.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Accountant.2.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4750.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Amateur.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Amateur.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4761.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Final.Destination.Bloodlines.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Final.Destination.Bloodlines.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4762.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbolts.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Thunderbolts.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4817.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ballerina.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Ballerina.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4818.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Old.Guard.2.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Old.Guard.2.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4819.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ice.Road.Vengeance.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Ice.Road.Vengeance.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4820.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Karate.Kid.Legends.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Karate.Kid.Legends.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4827.mkv
+#EXTINF:-1 tvg-id="" tvg-name="How.To.Train.Your.Dragon.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",How.To.Train.Your.Dragon.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4828.mkv
+#EXTINF:-1 tvg-id="" tvg-name="M3GAN.2.0.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",M3GAN.2.0.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4829.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jurassic.World.Rebirth.2025" tvg-logo="RYANTV MOVIES 2025" group-title="RYANTV MOVIES 2025",Jurassic.World.Rebirth.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4875.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Superman.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Superman.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4876.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Mission.Impossible.-.The.Final.Reckoning.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Mission.Impossible.-.The.Final.Reckoning.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4877.mkv
+#EXTINF:-1 tvg-id="" tvg-name="F1.The.Movie.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",F1.The.Movie.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4878.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Naked.Gun.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Naked.Gun.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4916.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Play.Dirty.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Play.Dirty.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4947.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Lost.Bus.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Lost.Bus.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4948.mkv
+#EXTINF:-1 tvg-id="" tvg-name="A.House.Of.Dynamite.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",A.House.Of.Dynamite.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4959.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Ballad.Of.A.Small.Player.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Ballad.Of.A.Small.Player.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4970.mkv
+#EXTINF:-1 tvg-id="" tvg-name="One.Battle.After.Another.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",One.Battle.After.Another.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/4994.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Jay.Kelly.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Jay.Kelly.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/5021.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Wildcat.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Wildcat.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/5022.mkv
+#EXTINF:-1 tvg-id="" tvg-name="The.Running.Man.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",The.Running.Man.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/5023.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Now.You.See.Me.Now.You.Dont.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Now.You.See.Me.Now.You.Dont.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/5075.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Nuremberg.2025" tvg-logo="" group-title="RYANTV MOVIES 2025",Nuremberg.2025
+http://144.76.76.248:8090/movie/newmovie/mNhjikYxc/5076.mkv
+
+########№############################
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BODM1MTNhMjMtMDYxNS00M2ZkLTkwODMtYzEwNzQ1YTFmYzJkXkEyXkFqcGc@._V1_.jpg" group-title="RYANTV MOVIES 2025",The Shadow's Edge (2025)
+https://cloud.hownetwork.xyz/xxx/IA1kKCAXEGw4OQIlbkk_NiVVe353TFoWBxMzABxoCW8gTy19dRxC/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzk4NWNmMDYtZmRmMC00NDcxLWEyYTAtNDc5YWQwZDhlODI1XkEyXkFqcGc@._V1_.jpg" group-title="RYANTV MOVIES 2025",The Family Plan 2 (2025)
+https://cloud.hownetwork.xyz/xxx/JBkkJykAWjEuMBlhcR1kaHBNZBkAOzMNHQkoLyIEYjpwS3A/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI0NzVkY2UtYWU0Ny00MjcxLWI3YjAtMmZhMDk5NjFhZjlkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="RYANTV MOVIES 2025",Altered (2025)
+https://cloud.hownetwork.xyz/xxx/IxQ9KzccE2xwYUV5bmcTGgY0FhYaT04ge2RFLyE/37/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv6.lk21official.cc/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTdjZGUxMTItNjRkNS00N2VhLWE4MjMtMjVhODMwMGIxNjUwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="RYANTV MOVIES 2025",Predator Badlands (2025) 
+https://cloud.hownetwork.xyz/xxx/MgosKiQNGDNvMxYoL1E4PDFVe353TFoWBxMzABxoCT4kG3B6dRtA/37/480.m3u8
+
+
+################£#££#£################
+
+
+#########££££££######################
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/5gMIjA2.png" ,Aniplus
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/Qy1Mcoc.png",Zee Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5106/default_ott.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/198_144.png" ,HGTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KmlbBG589YEaY00TSEQRlQ", "kid":"jBuzCZVe7jKII5Cr6+GYEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
+
+#EXTINF:-1 tvg-id="crime-investigation" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/369_144.png" group-title="RYANTV CHANNELS",Crime & Investigation
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21e2843b561c4248b8ea487986a16d33:db6bb638ccdfc1ad1a3e98d728486801
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
+
+#############№################################
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg" group-title="RYANTV CHANNELS", NBA
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XOm9440too.png" group-title="RYANTV CHANNELS", HBO Boxing
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/tX5134VKA.jpg" group-title="RYANTV CHANNELS",PBB COLLAB 2.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
+
+#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA TV
+http://fortv.cc:8080/live/Tacha257/gNs7lQv84F/20073.ts
+#EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-name="Atlanta Hawks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
+#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="Boston Celtics" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
+#EXTINF:-1 tvg-id="BrooklynNets.nba" tvg-name="Brooklyn Nets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
+#EXTINF:-1 tvg-id="CharlotteHornets.nba" tvg-name="Charlotte Hornets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83045.ts
+#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="Chicago Bulls" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83048.ts
+#EXTINF:-1 tvg-id="ClevelandCavaliers.nba" tvg-name="Cleveland Cavaliers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/86042.ts
+#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="Dallas Mavericks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83048.ts
+#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="Denver Nuggets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83050.ts
+#EXTINF:-1 tvg-id="DetroitPistons.nba" tvg-name="Detroit Pistons" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83049.ts
+#EXTINF:-1 tvg-id="GoldenStateWarriors.nba" tvg-name="Golden State Warriors" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/86052.ts
+#EXTINF:-1 tvg-id="HoustonRockets.nba" tvg-name="Houston Rockets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83048.ts
+#EXTINF:-1 tvg-id="IndianaPacers.nba" tvg-name="Indiana Pacers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83045.ts
+#EXTINF:-1 tvg-id="LosAngelesClippers.nba" tvg-name="Los Angeles Clippers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83052.ts
+#EXTINF:-1 tvg-id="LosAngelesLakers.nba" tvg-name="Los Angeles Lakers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
+#EXTINF:-1 tvg-id="MemphisGrizzlies.nba" tvg-name="Memphis Grizzlies" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83049.ts
+#EXTINF:-1 tvg-id="MiamiHeat.nba" tvg-name="Miami Heat" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83052.ts
+#EXTINF:-1 tvg-id="MilwaukeeBucks.nba" tvg-name="Milwaukee Bucks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83045.ts
+#EXTINF:-1 tvg-id="MinnesotaTimberwolves.nba" tvg-name="Minnesota Timberwolves" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
+#EXTINF:-1 tvg-id="NewOrleansPelicans.nba" tvg-name="New Orleans Pelicans" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83043.ts
+#EXTINF:-1 tvg-id="NewYorkKnicks.nba" tvg-name="New York Knicks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83047.ts
+#EXTINF:-1 tvg-id="OklahomaCityThunder.nba" tvg-name="Oklahoma City Thunder" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83043.ts
+#EXTINF:-1 tvg-id="OrlandoMagic.nba" tvg-name="Orlando Magic" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
+#EXTINF:-1 tvg-id="Philadelphia76ers.nba" tvg-name="Philadelphia 76ers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/86042.ts
+#EXTINF:-1 tvg-id="PhoenixSuns.nba" tvg-name="Phoenix Suns" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83049.ts
+#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="Portland Trail Blazers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83043.ts
+#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="Sacramento Kings" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/86052.ts
+#EXTINF:-1 tvg-id="SanAntonioSpurs.nba" tvg-name="San Antonio Spurs" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
+#EXTINF:-1 tvg-id="TorontoRaptors.nba" tvg-name="Toronto Raptors" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83047.ts
+#EXTINF:-1 tvg-id="UtahJazz.nba" tvg-name="Utah Jazz" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
+#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="Washington Wizards" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
+http://supersonictv.live:8080/live/Jacq/Carr8476/83047.ts
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
+
+
+#EXTINF:-1 tvg-id="Baywatch" tvg-name="Baywatch" tvg-logo="https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png" group-title="RYANTV CHANNELS",Baywatch
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RomeComDrama" tvg-name="RomeComDrama" tvg-logo="https://img.platform.wurl.dev/channel/1756/lg/a2064b/LG-Logo-PNG-100x100_v1.png" group-title="RYANTV CHANNELS",RomCom K-Drama
+https://ee75dd7e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfUm9tQ29tS0RyYW1hX0hMUw/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RYANTV-Channel" tvg-name="RYANTV Premium" tvg-logo="https://i.imghippo.com/files/Vaob1686QI.jpg" group-title="RYANTV CHANNELS",SKY SPORTS F1
+http://cord-cutter.net:8080/bn80NG/909467/35244
+
+#EXTINF:-1 tvg-id="RYANTV" tvg-name="SONY PIX HD" tvg-logo="https://i.imghippo.com/files/cvoo8807zNw.jpg" group-title="RYANTV CHANNELS",SONY PIX HD
+http://supersonictv.live:8080/611366/682256/22879
+#EXTINF:-1 tvg-id="US: 5 STARMAX" tvg-name="CINEMAX 5 STARMAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX 5 STARMAX UHD
+http://supersonictv.live:8080/611366/682256/22878
+#EXTINF:-1 tvg-id="US: CINEMAX WEST" tvg-name="Cinemax West UHD" group-title="MOVIE CHANNELS📺",Cinemax UHD1
+http://supersonictv.live:8080/611366/682256/22879
+#EXTINF:-1 tvg-id="US: CINEMAX WEST" tvg-name="Cinemax West UHD" group-title="MOVIE CHANNELS📺",Cinemax UHD2
+http://supersonictv.live:8080/611366/682256/22880
+#EXTINF:-1 tvg-id="US: ACTIONMAX EAST" tvg-name="CINEMAX ACTIONMAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX ACTIONMAX UHD
+http://supersonictv.live:8080/611366/682256/22881
+#EXTINF:-1 tvg-id="US: MOREMAX EAST" tvg-name="CINEMAX MORE MAX UHD" group-title="MOVIE CHANNELS📺",CINEMAX MORE MAX UHD
+http://supersonictv.live:8080/611366/682256/22882
+#EXTINF:-1 tvg-id="US: FX EAST" tvg-name="USA FX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 1
+http://supersonictv.live:8080/611366/682256/22091
+#EXTINF:-1 tvg-id="US: FX WEST" tvg-name="USA FX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FX 2
+http://supersonictv.live:8080/611366/682256/22092
+#EXTINF:-1 tvg-id="US: FXM" tvg-name="USA FXM UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXM UHD
+http://supersonictv.live:8080/611366/682256/22093
+#EXTINF:-1 tvg-id="US: FXX EAST" tvg-name="USA FXX East UHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+http://supersonictv.live:8080/611366/682256/22094
+#EXTINF:-1 tvg-id="US: FXX WEST" tvg-name="USA FXX West LHD" https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fx-movie-channel.png" group-title="MOVIE CHANNELS📺",FXX UHD
+http://supersonictv.live:8080/611366/682256/22095
+#EXTINF:-1 group-title="MOVIE CHANNELS📺",HOLLYWOOD MOVIES
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="US: MOVIEPLEX EAST" tvg-name="MOVIEPLEX  HD" group-title="MOVIE CHANNELS📺",MOVIEPLEX  HD
+#EXTINF:-1 group-title="MOVIE CHANNELS📺",MovieSphere
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="US: STARZ EAST" tvg-name="StarZ East UHD" group-title="MOVIE CHANNELS📺",StarZ 1
+http://supersonictv.live:8080/611366/682256/22918
+#EXTINF:-1 tvg-id="US: STARZ WEST" tvg-name="Starz West UHD" group-title="MOVIE CHANNELS📺",Starz 2
+http://supersonictv.live:8080/611366/682256/22919
+#EXTINF:-1 tvg-id="US: STARZ CINEMA" tvg-name="Starz Cinema UHD" group-title="MOVIE CHANNELS📺",Starz Cinema UHD
+http://supersonictv.live:8080/611366/682256/22920
+#EXTINF:-1 tvg-id="US: STARZ EDGE" tvg-name="Starz Edge UHD" group-title="MOVIE CHANNELS📺",Starz Edge UHD
+http://supersonictv.live:8080/611366/682256/22922
+#EXTINF:-1 tvg-id="US: STARZ IN BLACK" tvg-name="Starz in Black UHD" group-title="MOVIE CHANNELS📺",Starz in Black UHD
+http://supersonictv.live:8080/611366/682256/22923
+#EXTINF:-1 tvg-id="US: STARZ KIDS AND FAMILY" tvg-name="Starz Kids & Family UHD" group-title="MOVIE CHANNELS📺",Starz Kids & Family UHD
+http://supersonictv.live:8080/611366/682256/22924
+#EXTINF:-1 tvg-id="US: STARZ WEST" tvg-name="Starz Encore West UHD" group-title="MOVIE CHANNELS📺",Starz Encore
+http://supersonictv.live:8080/611366/682256/22926
+#EXTINF:-1 tvg-id="US: STARZENCORE ACTION" tvg-name="Starz Encore Action UHD" group-title="MOVIE CHANNELS📺",Starz Encore Action UHD
+http://supersonictv.live:8080/611366/682256/22927
+#EXTINF:-1 tvg-id="US: STARZENCORE CLASSIC" tvg-name="Starz Encore Classic UHD" group-title="MOVIE CHANNELS📺",Starz Encore Classic UHD
+http://supersonictv.live:8080/611366/682256/22929
+#EXTINF:-1 tvg-id="US: STARZENCORE FAMILY" tvg-name="Starz Encore Family UHD" group-title="MOVIE CHANNELS📺",Starz Encore Family UHD
+http://supersonictv.live:8080/611366/682256/22930
+#EXTINF:-1 tvg-id="US: STARZENCORE SUSPENSE" tvg-name="Starz Encore Suspense UHD" group-title="MOVIE CHANNELS📺",Starz Encore Suspense UHD
+http://supersonictv.live:8080/611366/682256/22931
+
+#EXTINF:-1 tvg-id="FLS_6719351a9127383bf1afb7a0" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4454e89b-ea81-4752-a9bb-6db85b40a194" group-title="RYANTV CHANNELS",HOOP TV
+https://amg00585-amg00585c9-sportstribal-emea-5518.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-hooptv-sportstribalemea/playlist.m3u8?channel_name=HOOP%20TV&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+#EXTINF:-1 tvg-id="FLS_6675bc4b1de4405de4d48637" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c2e21836-abc5-4e50-875a-4aefa365e7f7" group-title="RYANTV CHANNELS",Stadium
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-stadium-sportstribal/playlist.m3u8?channel_name=Stadium&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+#EXTINF:-1 tvg-id="FLS_671936aee4b561864c211127" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64" group-title="RYANTV CHANNELS",ACE TV
+https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8?channel_name=ACE%20TV&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
+
+**********RYANTV V3 CHANNELS**********
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AnimeX" tvg-logo="https://i.imghippo.com/files/GnSL7555RRE.webp" group-title="RYANTV CHANNELS",AnimeX
+https://live20.bozztv.com/giatv/giatv-animex/animex/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nbaleaguepass5.us" tvg-name="SINE MANILA" tvg-logo="https://i.imghippo.com/files/GvL3752KU.png" group-title="RYANTV CHANNELS",SINE MANILA
+https://live20.bozztv.com/giatv/giatv-sinemanila/sinemanila/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GMATV.ph" tvg-name="AsianBox" tvg-logo="https://i.imghippo.com/files/AUzN6933aG.jpg" group-title="RYANTV CHANNELS",AsianBox
+https://cdn4.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+
+#EXTINF:-1 group-logo="https://th.bing.com/th/id/R.d8d0fd4445ccdf8d8ec7a8a130e71e1a?rik=Kvk72EQE80IGjQ&riu=http%3A%2F%2Fwww.whereiseduy.com%2Fwp-content%2Fuploads%2F2021%2F01%2FCignal-Logo-1024x573.jpg&ehk=a0ch8hX9icT77JalUuV0kxsdUPK%2B%2Fw0SRyfUyPSNyQo%3D&risl&pid=ImgRaw&r=0&fbclid=IwY2xjawGIPRBleHRuA2FlbQIxMAABHVdtBh0_qMESLoQEXw3EdeqyBqXoXURZe_5bBpPThP-6c9hdIarEH2RD5A_aem_bwCjbjg5M0372sYj8YRTjg"
+
+#EXTINF:-1 tvg-id="Oneph.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/One-PH.jpg" ch-number="3" group-title="RYANTV CHANNELS",One PH
+http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApEZXvFy78Lv6DKuHrHIWsTsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001418&contentid=ch00000000000000001418&videoid=ch00000090990000001198&recommendtype=0&userid=1529671159516&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=P4UJ3LAHAFIXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20451520260101155239020714&ispcode=55
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AD956-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="2" group-title="RYANTV CHANNELS", Buko
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_buko_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADE4C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="3" group-title="RYANTV CHANNELS", Sari-Sari
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0a7ab3612f434335aa6e895016d8cd2d:b21654621230ae21714a5cab52daeb9d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_sarisari/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5F08-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="4" group-title="RYANTV CHANNELS", PTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_ptv4_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A97A2-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="5" group-title="RYANTV CHANNELS", TV5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/tv5_hd/default1/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9590-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1920" channel-number="6" group-title="RYANTV CHANNELS", DepEd Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f853706412b11edb8780242ac120002:2157d6529d80a760f60a8b5350dbc4df
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/depedch_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="Onenews.Hd.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/One-News.jpg" ch-number="6" group-title="RYANTV CHANNELS",One News
+http://136.239.159.18:6610/001/2/ch00000090990000001084/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArVgubraL%2BIHu4fk7y9Ng6RsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001174&contentid=ch00000000000000001174&videoid=ch00000090990000001084&recommendtype=0&userid=1850724200018&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=6CBAIKZS5PAXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20446220260101155236280404&ispcode=55
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/44B03994-C303-4ACE-997C-91CAC493D0FC/0-16x9.jpg?width=1980" channel-number="8" group-title="RYANTV CHANNELS", RPTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cnn_rptv_prod_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ABC0A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="9" group-title="RYANTV CHANNELS", IBC 13
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=16ecd238c0394592b8d3559c06b1faf5:05b47ae3be1368912ebe28f87480fc84
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/ibc13_sd_new/default1/index.mpd
+
+#EXTINF:-1 tvg-id="Truefmtv.ph" tvg-name="Truefmtv" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/4514F052-94DC-47C5-8BB1-DA42BD5F2F57/0-16x9.jpg?width=1990" ch-number="211" group-title="RYANTV CHANNELS",TrueTV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4e2b9d61c754f3a8d109b6c2f1e7a55:1d8d975f0bc2ed90eda138bd31f173f4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/truefm_tv/default/index.mpd
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/A2Z_Channel_11_without_Channel_11_3D_Logo_2020.png/revision/latest?cb=20231101144828" group-title="RYANTV CHANNELS", A2Z
+http://136.239.173.2:6610/001/2/ch00000090990000001087/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BqHRrK8UUahwItHhKpXgPXKytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001176&contentid=ch00000000000000001176&videoid=ch00000090990000001087&recommendtype=0&userid=1287297673984&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=U4DB4Z0H2EXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/166677E4-33C5-4C3B-A09D-7B3442D99E77/0-16x9.jpg?width=1980" channel-number="12" group-title="RYANTV CHANNELS", Bilyonaryo Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/C5298B63-6A6F-4CEC-8AC7-07B482EFA587/0-16x9.jpg?width=1980" channel-number="13" group-title="RYANTV CHANNELS", TVN Movies Pinoy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8AAA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="14" group-title="RYANTV CHANNELS", PBO
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA120-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="15" group-title="RYANTV CHANNELS", Viva Cinema
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" channel-number="16" group-title="RYANTV CHANNELS", TMC (Tagalized Movie Channel)
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" channel-number="17" group-title="RYANTV CHANNELS", Celestial Movies Pinoy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2vImVJE.png" channel-number="18" group-title="RYANTV CHANNELS", Thrill
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_thrill_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC48E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="19" group-title="RYANTV CHANNELS", Tap Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tapmovies_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch115_170_122" group-title="RYANTV CHANNELS", HBO
+http://136.239.158.10:6610/001/2/ch00000090990000001065/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BosKg8aLji3LHWqHUI%2FwQyJytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001085&contentid=ch00000000000000001085&videoid=ch00000090990000001065&recommendtype=0&userid=1362658369654&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=UVJL5F87UVBXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/CEE83EE5-D870-4B3C-9339-ACA7FF4020D0/0-16x9.jpg?width=1980" channel-number="21" group-title="RYANTV CHANNELS", HBO Hits
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohits/default1/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/62F1A4ED-EB56-49DF-912D-0A2388131772/0-16x9.jpg?width=1980" channel-number="22" group-title="RYANTV CHANNELS", HBO Family
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=1980" channel-number="23" group-title="RYANTV CHANNELS", HBO Signature
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbosign/default/index.mpd
+
+#EXTINF:-1 tvg-id="" group-title="RYANTV CHANNELS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2c8a5f1e7b9d4c6a9e55f1d7b2a8c360:c9f622dff27e9e1c1f78617ba3b81a62
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_hitsmovies/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="TAPACTIONFLIX.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" ch-number="47" group-title="RYANTV CHANNELS",Tap Actionflix
+http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155241186367&ispcode=55
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=1980" channel-number="26" group-title="RYANTV CHANNELS", Cinemax
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x1ZG71v.png" group-title="RYANTV CHANNELS", NBA TV Philippines
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1f8a0c97b3d4e529a6f2c4b8d7e1f90:58ab331d14b66bf31aca4284e0a3e536
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cgnl_nba/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="28" group-title="RYANTV CHANNELS", PBA Rush
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d7f1a9c36b2e4f8d9a441c5e7b2d8f60:fb83c86f600ab945e7e9afed8376eb1e
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AB750-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="29" group-title="RYANTV CHANNELS", One Sports HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="RYANTV CHANNELS", One Sports+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f00bd0122a8a4da1a49ea6c49f7098ad:a4079f3667ba4c2bcfdeb13e45a6e9c6
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesportsplus_hd1/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A869A-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="31" group-title="RYANTV CHANNELS", UAAP Varsity Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=95588338ee37423e99358a6d431324b9:6e0f50a12f36599a55073868f814e81e
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_uaap_cplay_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="TAPSPORTS.ph" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Tap-Sports.jpg" ch-number="57" group-title="RYANTV CHANNELS",Tap Sports
+http://136.239.159.20:6610/001/2/ch00000090990000001151/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAqvuCQC%2BfGfSFGYE2TZKWpbsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001321&contentid=ch00000000000000001321&videoid=ch00000090990000001151&recommendtype=0&userid=1152003704638&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=5ZMK2MIJY75XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445320260101155238172211&ispcode=55
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6228-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="33" group-title="RYANTV CHANNELS", Premier Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A899C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="34" group-title="RYANTV CHANNELS", Premier Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/premiersports2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5BC0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="35" group-title="RYANTV CHANNELS", SpoTV HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6A70-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="36" group-title="RYANTV CHANNELS", SpoTV 2 HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_spotv2hd/default/index.mpd
+
+#EXTINF:-1 tvg-id="Animax.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Animax.jpg" ch-number="66" group-title="RYANTV CHANNELS",Animax
+http://136.239.158.30:6610/001/2/ch00000090990000001315/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApUjG9Pouw9ZPY2OjOhRVs72%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001853&contentid=ch00000000000000001853&videoid=ch00000090990000001315&recommendtype=0&userid=1839722974667&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=EKNK24RBBRLXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448620260101155242367242&ispcode=55
+
+#EXTINF:-1 tvg-id="dreamworks_hd" group-title="RYANTV CHANNELS" tvg-logo="https://i.imgur.com/cgfKSDP.png",DreamWorks
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b1e9c4d5a2f4d8c9f106d3a8b2c1e77:8b2904224c6cee13d2d4e06c0a3b2887
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworks_hd1/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/40E328E7-FE69-4287-86EA-FA942A7EA302/0-16x9.jpg?width=1980" channel-number="39" group-title="RYANTV CHANNELS", Dreamworks Tagalog
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=564b3b1c781043c19242c66e348699c5:d3ad27d7fe1f14fb1a2cd5688549fbab
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_dreamworktag/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="40" group-title="RYANTV CHANNELS", Moonbug Kids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_moonbug_kids_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A51FC-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="41" group-title="RYANTV CHANNELS", Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/66B5278C-75EA-4D93-AD2B-A5822A0F1056/0-16x9.jpg?width=1980" channel-number="42" group-title="RYANTV CHANNELS", TVN Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnpre/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7CE0-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="43" group-title="RYANTV CHANNELS", KBS World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=22ff2347107e4871aa423bea9c2bd363:c6e7ba2f48b3a3b8269e8bc360e60404
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kbsworld/default/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/131_144.png",AXN HD
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c24a7811d9ab46b48b746a0e7e269210:c321afe1689b07d5b7e55bd025c483ce
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="RYANTV CHANNELS", Hits HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://aqfadtv.xyz/logos/HITSNow.png" ,HITS Now
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ck-server.danng.me/?username=HishamKamarul&channelid=5110
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5110/default_ott.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A80E6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="47" group-title="RYANTV CHANNELS", Lifetime
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cf861d26e7834166807c324d57df5119:64a81e30f6e5b7547e3516bbf8c647d0
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_lifetime/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KJaSftF.png" group-title="RYANTV CHANNELS", Tap TV
+http://136.239.158.30:6610/001/2/ch00000090990000001149/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BroVo9XMLpd0k2y9rVerSvmytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001319&contentid=ch00000000000000001319&videoid=ch00000090990000001149&recommendtype=0&userid=1260399616449&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=RY6345WC6DSXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+	
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Edge.jpg" channel-number="49" group-title="RYANTV CHANNELS", Tap Edge
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tapedge/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64f57100366fe5c8cb6088a7_logo_ext_web.png?fbclid=IwY2xjawGIHF9leHRuA2FlbQIxMAABHaW0_Y0A9XL4w1ZXDSwAZCAxe62ui1Oy3gU5wjykfHsZ0eCjzNxl05M0JQ_aem_NIH5vZtTty4_B8wy5fB2LA" group-title="RYANTV CHANNELS", Rock Action
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d2a6f1c9b7e4c3da5f01e7b9c6d2f44:23841651ebf49fa03fdfcd7b43337f87
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockextreme/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0c1_logo_ent_red_web.png" group-title="RYANTV CHANNELS",Rock Entertainment
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a8b2d6f14c9e4d7a8f552c1e9b7d6a30:b61a33a4281e7c8e68b24b9af466f7b4
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_rockentertainment/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vucZeKB.png" group-title="RYANTV CHANNELS", Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9d2f7c1e6b4c8d8a55d7b1e3f0c926:2e62531bdb450480a18197b14f4ebc77
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A9496-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="53" group-title="RYANTV CHANNELS", Food Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7299ea0af8945479cd2f287ee7d530e:b8ae7679cf18e7261303313b18ba7a14
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_foodnetwork_hd1/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Zd5zm7C.png" group-title="RYANTV CHANNELS", Fashion TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d7c1f2a6b4e4a8d8f33c1e5b7d2a960:3a18c535c52db7c79823f59036a9d195
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/fashiontvhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/History_28201529.png" group-title="RYANTV CHANNELS", History
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e2a8c7d15b9f4d6a9c101f7e3b2d8a44:397ca914a73b1e00bc94ed9eccf9c258
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_historyhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A734E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="57" group-title="RYANTV CHANNELS", Discovery Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/discovery/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mBFs4RQ/pinpng-com-animal-planet-png-4851143.png" group-title="RYANTV CHANNELS", Animal Planet
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1c9f7a6d3b2e4e5d8a61f4d0c2b9e813:b8f52451c67a2b54f272543eef45b621
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8898-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="59" group-title="RYANTV CHANNELS", Travel Channel
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f3047fc13d454dacb6db4207ee79d3d3:bdbd38748f51fc26932e96c9a2020839
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/travel_channel_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A6868-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="60" group-title="RYANTV CHANNELS", BBC Earth
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_bbcearth_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A5468-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="61" group-title="RYANTV CHANNELS", CNN International
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=900c43f0e02742dd854148b7a75abbec:da315cca7f2902b4de23199718ed7e90
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A847E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="62" group-title="RYANTV CHANNELS", BBC World News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f59650be475e4c34a844d4e2062f71f3:119639e849ddee96c4cec2f2b6b09b40
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/bbcworld_news_sd/default/index.mpd
+
+#EXTINF:-1 tvg-id="bloomberg" group-title="RYANTV CHANNELS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/708_1920x1080_HTV.png",Bloomberg
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b8e6d1f2c9a4f7d9a556c1e7b2d8f90:09f0bd803966c4befbd239cfa75efe23
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bloomberg_sd/default/index.mpd
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/kVVax44.png" group-title="RYANTV CHANNELS", ABC Australia
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=d6f1a8c29b7e4d5a8f332c1e9d7b6a90:790bd17b9e623e832003a993a2de1d87
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/abc_aus/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7448-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="65" group-title="RYANTV CHANNELS", CCTV-4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b83566836c0d4216b7107bd7b8399366:32d50635bfd05fbf8189a0e3f6c8db09
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_cctv4/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC9B6-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="66" group-title="RYANTV CHANNELS", France 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=257f9fdeb39d41bdb226c2ae1fbdaeb6:e80ead0f4f9d6038ab34f332713ceaa5
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/france24/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADB5E-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="67" group-title="RYANTV CHANNELS", TV5 Monde
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba5a720b4a541b286552899ba86e38b:f63fa50423148bfcbaa58c91dfcffd0e
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/dr_tv5_monde/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/mo-macau-lotus-tv-3757.png" group-title="RYANTV CHANNELS", Lotus Macau
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a7c2d1f4e8b4a6d8f301b5c9e7d2a44:ca88469cabc18aa33d1f2e46a6efb4f7
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/lotusmacau_prd/default/index.mpd
+
+#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="RYANTV CHANNELS",KIX hd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c9d4b7a18e2f4d6c9a103f5b7e1c2d88:7f3139092bf87d8aa51ee40e6294d376
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/kix_hd1/default/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/tv-philippines/images/4/43/WILTV_logo.png/revision/latest?cb=20251214021032" group-title="RYANTV CHANNELS",Wil-TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b1773d6f982242cdb0f694546a3db26f:ae9a90dbea78f564eb98fe817909ec9a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/wiltv/default/index.mpd
+
+
+**********RYANTV V3 CHANNELS**********
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
+
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya-Channel-HD.jpg" ch-number="8" group-title="RYANTV CHANNELS",Kapamilya HD
+http://136.158.97.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1013243321&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
+
+
+
+**********RYANTV FM Radio**********
+
+#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/fuyfjcn4gqee.png" group-title="Ph Live Radio",87.5 Republika FM1
+https://stream.zeno.fm/qnt98p5m108uv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/983/awr-manila-891.ab9269f0.png" group-title="Ph Live Radio",89.1 AWR Manila
+http://192.53.113.120:8000/stream?type=.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/216/dwtm-magic-899-fm.dd9f5d41.png" group-title="Ph Live Radio",89.9 Magic
+https://stream.zeno.fm/sh37pvfd938uv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/141/dzmb-love-radio-907-fm.fd6dd832.png" group-title="Ph Live Radio",90.7 Love Radio
+https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://onlineradio.ph/uploads/img/91-5-win-radio-manila.jpg" group-title="Ph Live Radio",91.5 Win Radio
+https://stream.zeno.fm/nz4ydgnu6hhvv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/113/fm-radio-philippines.60a60500.jpg" group-title="Ph Live Radio",92.3 FM RADIO Manila
+http://us1.amfmph.com:8872/stream?type=.aac
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/209/monster-radio-rx-931-fm.bd515dec.png" group-title="Ph Live Radio",93.1 Monster Radio RX 
+https://in-icecast.eradioportal.com:8443/monsterrrx
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/550/eagle-fm-955.31726a37.jpg" group-title="Ph Live Radio",95.5 Eagle FM
+http://n0c.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABl4NB7pwAuUwQgelXY74u7w
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/138/dwrk-963-easy-rock.c2c03660.png" group-title="Ph Live Radio",96.3 Easy Rock
+https://azura.easyrock.com.ph/listen/easy_rock_manila/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/3fFrky9eJE.jpg" group-title="Ph Live Radio",97.9 Home Radio
+https://hrmanila.radioca.st/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/673/dzfe-the-masters-touch-987-fm.d089acb9.jpg" group-title="Ph Live Radio",98.7 The Master's Touch
+http://sg-icecast.eradioportal.com:8000/febc_dzfe
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/211/yes-fm-manila-1011.3596a020.png" group-title="Ph Live Radio",101.1 Yes Fm
+https://azura.yesfm.com.ph/listen/yes_fm_manila/radio.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-profiles.tunein.com/s120158/images/logog.png?t=162748" group-title="Ph Live Radio",100.3 RJ FM
+https://tls.radyoph.com/secure.php?token=e65da9db216c01cc4bb7de86cdafc78f
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/848/star-fm-manila.c6a245b5.png" group-title="Ph Live Radio",102.7 Star FM
+https://stream.zeno.fm/69b1kf7q0y5tv
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/224/1035-k-lite.e3e0d2a2.png" group-title="Ph Live Radio",103.5 All Radio
+http://103.36.17.18:8000/stream
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/252/dwft-fm2-1043.4099fc68.png" group-title="Ph Live Radio",104.3 Capital FM2
+http://122.53.138.32:8000/dwbr.mp3
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/PG5RgCjKLe.png" group-title="Ph Live Radio",106.7 Energy FM
+http://ph-icecast.eradioportal.com:8000/energyfm_manila
+#EXTINF:-1 tvg-id="5002:0:19:112F8:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/oumprkO9bThExP8NwxBIBnvBu2v1-200x300.jpg" 
+group-title="RYANTV MOVIES 2025", The Life of Chuck (2025)
+http://s1.gmtcloud.site/video/moviess/TheLifeofChuck2024.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:112E7:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/svXVRoRSu6zzFtCzkRsjZS7Lqpd1-200x300.jpg" group-title="RYANTV MOVIES 2025",Nobody 2 (2025)
+http://s1.gmtcloud.site/video/moviess/Nobody.2.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:10CB0:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/9qQjd8Af0G7UmteRHruihS1lBZy1-200x300.jpg" group-title="RYANTV MOVIES 2025",The Naked Gun  (2025)
+http://s1.gmtcloud.site/video/moviess/The.Naked.Gun.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:112CF:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/09/waQoVqRSbttoWQYeWBtR8mAJfvZ1-200x300.jpg" group-title="RYANTV MOVIES 2025",Bambi: The Reckoning (2025)
+http://s1.gmtcloud.site/video/moviess/BambiTheReckoning.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:10D12:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2024/08/cdPCTAay6GR32vb2snhIOhozDCd1-200x300.jpg" group-title="RYANTV MOVIES 2025",The Home (2025)
+http://s1.gmtcloud.site/video/moviess/The.Home.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:1122B:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/pp6Rg9Ls2g7EaLhJriHx1gI99h1-200x300.jpg" group-title="RYANTV MOVIES 2025",Love Untangled (2025)
+http://s1.gmtcloud.site/video/moviess/Love.Untangled.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:111CE:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/jSG2mg1998DUAam6X9EA6SeJmqD1-200x300.jpg" group-title="RYANTV MOVIES 2025", A Line of Fire (2025)
+http://s1.gmtcloud.site/video/moviess/A%20Line%20Of%20Fire%202025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:111C7:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/uoBrXKe1qE2wFXOw71GuiIXETYV1-200x300.jpg" group-title="RYANTV MOVIES 2025", She Rides Shotgun (2025)
+http://s1.gmtcloud.site/video/moviess/She.Rides.Shotgun.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:111C0:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/jukxj88V6GmpkJWn6PjiKodxa7A1-200x300.jpg" group-title="RYANTV MOVIES 2025", Werewolf Game (2025)
+http://s1.gmtcloud.site/video/moviess/Werewolf.Game.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:111BC:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/d3T9jjdLjnhMzuFvmWImlVKiIrv1-200x300.jpg" group-title="RYANTV MOVIES 2025", Fantasy Football Ruined Our Lives (2025)
+http://s1.gmtcloud.site/video/moviess/Fantasy.Football.Ruined.Our.Lives.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:1110E:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/8FP2ObEGIiQYQCf83gL4ZVzwZF81-200x300.jpg" group-title="RYANTV MOVIES 2025",I Know What You Did Last Summer (2025)
+http://s1.gmtcloud.site/video/moviess/I.Know.What.You.Did.Last.Summer.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:1116F:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/qiZqJaq7OQ5QGV4F71JvQcR8p3T1-200x300.jpg" group-title="RYANTV MOVIES 2025", The Thursday Murder Club (2025)
+http://s1.gmtcloud.site/video/moviess/The%20Thursday%20Murder%20Club%202025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:11103:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/8cAXLYDmn0POhjqzTHeT6rJMUVc1-200x300.jpg" group-title="RYANTV MOVIES 2025", El secreto del orfebre (2025)
+http://s1.gmtcloud.site/video/moviess/The.Goldsmiths.Secret.2025.mp4?id=0
+#EXTINF:-1 tvg-id="5002:0:19:110E6:0:0:0:0:0:0" tvg-logo="https://gamatotv.info/wp-content/uploads/2025/08/m3qJWpGzuimIjNnWvibT7L5R1Dd1-200x300.jpg" group-title="RYANTV MOVIES 2025", Red Sonja (2025)
+http://s1.gmtcloud.site/video/moviess/RedSonja.mp4?id=0
+#EXTINF:-1 group-logo="https://live.bdtype.com/upload/Sports/Watch%20Live%20TV%20Channels%20All%20Over%20the%20World.jpg"
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/c4XvwO2.png",tvN Movies
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/eE9IBhJ.png",tvN Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=faf4d62bb898de503446c28fb1aa9210:19e80ecc5d337215c64004cb49c9cb01
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1001/default_ott.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="http://apkip.tv/logos/UK/Nickelodeon.uk.png",Nickelodeon
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"vaX3u8HkQJb3eaBhn+mIHw", "kid":"2FIOlqEoOrblvlOEdL+oEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
+
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/adult-swim-ca.png" ,Adult Swim
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
+https://a116aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/rwcf8uax9l/out/v1/13ccaaacbe1143e69b7732fced73f0ab/cenc.mpd
+
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" ,YTV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
+
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png",Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/Bcu69bU.png", ANC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-anc-global-dash-abscbnono/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/vm9Z0uV.png",Channel News Asia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ee336861eed4840a555788dc54aea6e:f1f53644d4941d4ed31b4bb2478f8cf4
+https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/DZMM_TeleRadyo.svg/1200px-DZMM_TeleRadyo.svg.png",DZMM TeleRadyo
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c093e0c9fd4f80839a0337da3dd876:50547394045b3d047dc7d92f57b5fb33
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-teleradyo-dash-abscbnono/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/zZWj5vn.png",TFC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9568cc84e1d944f38eac304517eab6fd:f12142af8f39b3bab79d3679d3665ebe
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-tfcasia-dash-abscbnono/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/f/f2/Cine_Mo%21_3D_Logo_2011.png",Cinemo! Global
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa8aebe35ccc4541b7ce6292efcb1bfb:aab1df109d22fc5d7e3ec121ddf24e5f
+https://d1bail49udbz1k.cloudfront.net/out/v1/3a895f368f4a467c9bca0962559efc19/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/CIPTNnT.png" ,MYX Global
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f40a52a3ac9b4702bdd5b735d910fd2f:5ce1bc7f06b494c276252b4d13c90e51
+https://d24xfhmhdb6r0q.cloudfront.net/out/v1/e897a7b6414a46019818ee9f2c081c4f/index.mpd
+
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="http://apkip.tv/logos/Canada/DisneyChannel.ca.png",Disney Channel
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",GMA Pinoy TV
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono/7c693236-e0c1-40a3-8bd0-bb25e43f5bfc/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/3BCg3pS.png",Movies Now
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/9/94/Cinema_One_Logo_2020.png", Cinema One
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=58d0e56991194043b8fb82feb4db7276:d68f41b59649676788889e19fb10d22c
+https://d9rpesrrg1bdi.cloudfront.net/out/v1/93b9db7b231d45f28f64f29b86dc6c65/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/GMA_Pinoy_TV_logo.png",GMA Pinoy TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c95ed4c44b0b4f7fa1c6ebbbbaab21a1:47635b8e885e19f2ccbdff078c207058
+https://amg01006-abs-cbn-abscbn-gma-x7-dash-abscbnono-dzsx9.amagi.tv/index.mpd
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://i.imgur.com/2TeKCBK.png",National Geographic Channel
+http://supersonictv.live:8080/611366/682256/22124
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png",National Geographic Wild
+http://supersonictv.live:8080/611366/682256/22125
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Abante Radyo" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Abante Radyo
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Ani One" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Ani One
+https://amg19223-amg19223c9-amgplt0019.playout.now3.amagi.tv/playlist/amg19223-amg19223c9-amgplt0019/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Z sine(tagalog dub)" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Z sine(tagalog dub)
+https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blast Movies" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Blast Movies
+https://amg19223-amg19223c7-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c7-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bollymovies" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Bollymovies
+https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Free Movies" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Free Movies
+https://amg01553-amg01553c2-samsung-ph-7163.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",UFC TV
+https://amg19223-amg19223c6-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c6-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Blast Sports" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Blast Sports
+https://amg19223-amg19223c1-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c1-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Euronews World" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Euronews World
+https://amg00882-amg00882c2-samsung-ph-4542.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Leadstory Breaking News" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Leadstory Breaking News
+https://amg02703-amg02703c17-samsung-ph-4546.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="France 24" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",France 24
+https://amg00106-amg00106c1-samsung-ph-4550.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Blast" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Real Blast
+https://amg19223-amg19223c10-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c10-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Mythbusters" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Mythbusters
+https://amg00627-amg00627c14-samsung-ph-4556.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mythbusters-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Survivor" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Survivor
+https://amg00627-amg00627c16-samsung-ph-5303.playouts.now.amagi.tv/playlist/amg00627-banijayfast-survivor-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Highway Thru Hell" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Highway Thru Hell
+https://amg00627-amg00627c15-samsung-ph-4559.playouts.now.amagi.tv/playlist/amg00627-banijayfast-highwaythruhell-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Biggest Loser" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",The Biggest Loser
+https://amg00627-amg00627c4-samsung-ph-5275.playouts.now.amagi.tv/playlist/amg00627-banijayfast-thebiggestloser-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fear Factor" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Fear Factor
+https://amg00627-amg00627c2-samsung-ph-5298.playouts.now.amagi.tv/playlist/amg00627-banijayfast-fearfactor-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Hardcore Pawn" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Hardcore Pawn
+https://amg00627-amg00627c8-samsung-ph-5278.playouts.now.amagi.tv/playlist/amg00627-banijayfast-hardcorepawn-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Wipeout Xtra" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Wipeout Xtra
+https://amg00627-amg00627c7-samsung-ph-5300.playouts.now.amagi.tv/playlist/amg00627-banijayfast-wipeoutxtra-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Monsters by ITV Studios" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Monsters by ITV Studios
+https://amg00654-itv-amg00654c12-samsung-ph-4580.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deal or No Deal" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Deal or No Deal
+https://amg00627-amg00627c21-samsung-ph-5284.playouts.now.amagi.tv/playlist/amg00627-banijayfast-dealornodealrow-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pointless" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Pointless
+https://amg00627-amg00627c34-samsung-ph-5313.playouts.now.amagi.tv/playlist/amg00627-banijayfast-pointless-samsungph/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Don't Tell the Bride" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Don't Tell the Bride
+https://amg00426-lds-amg00426c15-samsung-ph-4614.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Come Dine With Me" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Come Dine With Me
+https://amg00654-itv-amg00654c2-samsung-ph-4583.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Infast" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Infast
+https://amg00861-amg00861c8-samsung-ph-4629.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Inwild" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Inwild
+https://amg00861-amg00861c7-samsung-ph-4632.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pet Club TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Pet Club TV
+https://amg01076-amg01076c10-samsung-ph-7605.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Crime" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Real Crime
+https://amg00426-lds-amg00426c16-samsung-ph-4620.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="History Hit" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",History Hit
+https://amg00426-lds-amg00426c2-samsung-ph-4623.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Glitch Plus" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Glitch Plus
+https://amg07653-apmc-amg07653c3-samsung-ph-8466.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Real Wild" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Real Wild
+https://amg00426-lds-amg00426c1-samsung-ph-4626.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pulse TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Pulse TV
+https://amg01076-amg01076c8-samsung-ph-5639.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" InTravel" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS", InTravel
+https://amg00861-amg00861c22-samsung-ph-5411.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="InTrouble" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",InTrouble
+https://amg00861-amg00861c6-samsung-ph-4635.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Comic U" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Comic U
+https://amg19223-amg19223c8-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c8-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1Tap Sports" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",1Tap Sports
+https://amg19223-amg19223c2-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c2-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="2Premier Sports 1" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",2Premier Sports 1
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="1Premier Sports 2" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",1Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Premier Football" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Premier Football
+https://amg19223-amg19223c5-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c5-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tennis+" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Tennis+
+https://amg01935-amg01935c1-amgplt0352.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Red Bull TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Red Bull TV
+https://d3k3xxewhm1my2.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now 70s" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Now 70s
+https://amg01076-amg01076c1-samsung-ph-6994.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now 80s" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Now 80s
+https://amg01076-amg01076c2-samsung-ph-6998.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Now Rock" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Now Rock
+https://amg01076-amg01076c3-samsung-ph-7003.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Trace Urban" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Trace Urban
+https://amg01131-amg01131c1-samsung-ph-5310.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kidoodle TV" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Kidoodle TV
+https://amg07653-apmc-amg07653c5-samsung-ph-8539.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dude Perfect" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="RYANTV CHANNELS",Dude Perfect
+https://amg07653-apmc-amg07653c4-samsung-ph-8465.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" DuckTales" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS", DuckTales
+http://supersonictv.live:8080/live/Jacq/Carr8476/78999.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Recess" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS", Recess
+http://supersonictv.live:8080/live/Jacq/Carr8476/79021.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="24/7 Lupin III Twilight Gemini no Himitsu" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",24/7 Lupin III Twilight Gemini no Himitsu
+http://supersonictv.live:8080/live/Jacq/Carr8476/79060.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Are You Afraid Of The Dark" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Are You Afraid Of The Dark
+http://supersonictv.live:8080/live/Jacq/Carr8476/78979.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Austin And Ally" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Austin And Ally
+http://supersonictv.live:8080/live/Jacq/Carr8476/78980.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Bob's Burgers" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Bob's Burgers
+http://supersonictv.live:8080/live/Jacq/Carr8476/78981.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CatDog" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",CatDog
+http://supersonictv.live:8080/live/Jacq/Carr8476/78984.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Codename: Kids Next Door" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Codename: Kids Next Door
+http://supersonictv.live:8080/live/Jacq/Carr8476/78985.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Courage the Cowardly Dog" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Courage the Cowardly Dog
+http://supersonictv.live:8080/live/Jacq/Carr8476/78987.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Cow and Chicken" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Cow and Chicken
+http://supersonictv.live:8080/live/Jacq/Carr8476/78988.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Daria" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Daria
+http://supersonictv.live:8080/live/Jacq/Carr8476/78989.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DC Super Hero Girls" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",DC Super Hero Girls
+http://supersonictv.live:8080/live/Jacq/Carr8476/78991.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Detective Conan" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Detective Conan
+http://supersonictv.live:8080/live/Jacq/Carr8476/78992.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dexter's Laboratory" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Dexter's Laboratory
+http://supersonictv.live:8080/live/Jacq/Carr8476/78993.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diary of a Future President" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Diary of a Future President
+http://supersonictv.live:8080/live/Jacq/Carr8476/78994.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diary of a Future President" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Diary of a Future President
+http://supersonictv.live:8080/live/Jacq/Carr8476/78995.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dragon Ball Z" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/10420628/p10420628_b_v8_aa.jpg" group-title="4KIDS 24/7 RYANTV CHANNELS",Dragon Ball Z
+http://supersonictv.live:8080/live/Jacq/Carr8476/78996.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DuckTales" tvg-logo="https://cdn.worldvectorlogo.com/logos/ducktales-1.svg" group-title="4KIDS 24/7 RYANTV CHANNELS",DuckTales
+http://supersonictv.live:8080/live/Jacq/Carr8476/78998.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Fairly OddParents" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Fairly OddParents
+http://supersonictv.live:8080/live/Jacq/Carr8476/79000.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Goosebumps" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Goosebumps
+http://supersonictv.live:8080/live/Jacq/Carr8476/79002.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Henry Danger" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Henry Danger
+http://supersonictv.live:8080/live/Jacq/Carr8476/79003.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jessie" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Jessie
+http://supersonictv.live:8080/live/Jacq/Carr8476/79004.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Johnny Bravo" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Johnny Bravo
+http://supersonictv.live:8080/live/Jacq/Carr8476/79005.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids Are Alright" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Kids Are Alright
+http://supersonictv.live:8080/live/Jacq/Carr8476/79029.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Kids Say the Darndest Things" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Kids Say the Darndest Things
+http://supersonictv.live:8080/live/Jacq/Carr8476/79006.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="King of the Hill" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",King of the Hill
+http://supersonictv.live:8080/live/Jacq/Carr8476/79007.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Knight Squad" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Knight Squad
+http://supersonictv.live:8080/live/Jacq/Carr8476/79008.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego City Adventures" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lego City Adventures
+http://supersonictv.live:8080/live/Jacq/Carr8476/79061.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego Marvel Super Heroes Maximum Overload" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lego Marvel Super Heroes Maximum Overload
+http://supersonictv.live:8080/live/Jacq/Carr8476/79064.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego Nexo Knights" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lego Nexo Knights
+http://supersonictv.live:8080/live/Jacq/Carr8476/79065.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lego Star Wars The Freemaker Adventures" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lego Star Wars The Freemaker Adventures
+http://supersonictv.live:8080/live/Jacq/Carr8476/79063.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes Cartoons" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Looney Tunes Cartoons
+http://supersonictv.live:8080/live/Jacq/Carr8476/79038.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes Volume 2" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Looney Tunes Volume 2
+http://supersonictv.live:8080/live/Jacq/Carr8476/79040.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes Volume 3" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Looney Tunes Volume 3
+http://supersonictv.live:8080/live/Jacq/Carr8476/79041.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes Volume 4" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Looney Tunes Volume 4
+http://supersonictv.live:8080/live/Jacq/Carr8476/79043.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes Volume 5" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Looney Tunes Volume 5
+http://supersonictv.live:8080/live/Jacq/Carr8476/79045.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Looney Tunes Volume1" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Looney Tunes Volume1
+http://supersonictv.live:8080/live/Jacq/Carr8476/79049.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III 1 Money Wars" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III 1 Money Wars
+http://supersonictv.live:8080/live/Jacq/Carr8476/79050.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Ai no Da Capo Fujiko s Unlucky Days" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Ai no Da Capo Fujiko s Unlucky Days
+http://supersonictv.live:8080/live/Jacq/Carr8476/79051.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Dead or Alive" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Dead or Alive
+http://supersonictv.live:8080/live/Jacq/Carr8476/79052.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Fuuma Ichizoku no Inbou" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Fuuma Ichizoku no Inbou
+http://supersonictv.live:8080/live/Jacq/Carr8476/79053.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Honoo no Kioku Tokyo Crisis" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Honoo no Kioku Tokyo Crisis
+http://supersonictv.live:8080/live/Jacq/Carr8476/79054.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Kutabare Nostradamus" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Kutabare Nostradamus
+http://supersonictv.live:8080/live/Jacq/Carr8476/79055.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Lupin Ansatsu Shirei" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Lupin Ansatsu Shirei
+http://supersonictv.live:8080/live/Jacq/Carr8476/79056.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Moeyo Zantetsuken" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Moeyo Zantetsuken
+http://supersonictv.live:8080/live/Jacq/Carr8476/79057.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Napoleon no Jisho wo Ubae" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Napoleon no Jisho wo Ubae
+http://supersonictv.live:8080/live/Jacq/Carr8476/79058.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Lupin III Russia yori Ai wo Komete" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Lupin III Russia yori Ai wo Komete
+http://supersonictv.live:8080/live/Jacq/Carr8476/79059.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="My Wife and Kids" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",My Wife and Kids
+http://supersonictv.live:8080/live/Jacq/Carr8476/79037.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="One Punch Man" tvg-logo="https://pbs.twimg.com/media/EV2NxEzWsAAc2lj.jpg" group-title="4KIDS 24/7 RYANTV CHANNELS",One Punch Man
+http://supersonictv.live:8080/live/Jacq/Carr8476/79012.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Owl House" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Owl House
+http://supersonictv.live:8080/live/Jacq/Carr8476/79031.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PJ Masks" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",PJ Masks
+http://supersonictv.live:8080/live/Jacq/Carr8476/79014.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers in Space" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Power Rangers in Space
+http://supersonictv.live:8080/live/Jacq/Carr8476/79017.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers Turbo" tvg-logo="https://vignette.wikia.nocookie.net/powerrangers/images/0/03/PR_Turbo_poster.jpg/revision/latest?cb=20191129131423" group-title="4KIDS 24/7 RYANTV CHANNELS",Power Rangers Turbo
+http://supersonictv.live:8080/live/Jacq/Carr8476/79018.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Power Rangers Zeo" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Power Rangers Zeo
+http://supersonictv.live:8080/live/Jacq/Carr8476/79019.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Powerpuff Girls" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Powerpuff Girls
+http://supersonictv.live:8080/live/Jacq/Carr8476/79032.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Raven's Home" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Raven's Home
+http://supersonictv.live:8080/live/Jacq/Carr8476/79020.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rich Kids Go Skint" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Rich Kids Go Skint
+http://supersonictv.live:8080/live/Jacq/Carr8476/79022.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Rugrats" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Rugrats
+http://supersonictv.live:8080/live/Jacq/Carr8476/79023.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sabrina the Teenage Witch" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Sabrina the Teenage Witch
+http://supersonictv.live:8080/live/Jacq/Carr8476/79024.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sonic Underground" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Sonic Underground
+http://supersonictv.live:8080/live/Jacq/Carr8476/79025.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SpongeBob SquarePants" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",SpongeBob SquarePants
+http://supersonictv.live:8080/live/Jacq/Carr8476/79026.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Cool Kids" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",The Cool Kids
+http://supersonictv.live:8080/live/Jacq/Carr8476/79027.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Jetsons" tvg-logo="https://www.gstatic.com/tv/thumb/tvbanners/8677723/p8677723_b_v8_aa.jpg" group-title="4KIDS 24/7 RYANTV CHANNELS",The Jetsons
+http://supersonictv.live:8080/live/Jacq/Carr8476/79028.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Worst Witch" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",The Worst Witch
+http://supersonictv.live:8080/live/Jacq/Carr8476/79033.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="The Worst Witch" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",The Worst Witch
+http://supersonictv.live:8080/live/Jacq/Carr8476/79034.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Tom and Jerry
+http://supersonictv.live:8080/live/Jacq/Carr8476/79035.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Tom and Jerry
+http://supersonictv.live:8080/live/Jacq/Carr8476/79036.m3u8
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
+http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1614.ts
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
+http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1615.ts
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
+http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1616.ts
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
+http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1616.ts
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 1
+http://nocable.cc:8080/5AGbfz/324331/47440
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 2" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 2
+http://nocable.cc:8080/5AGbfz/324331/16129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 3" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 3
+http://nocable.cc:8080/5AGbfz/324331/47442
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 4" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 4
+http://nocable.cc:8080/5AGbfz/324331/47444
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 5
+http://nocable.cc:8080/5AGbfz/324331/47446
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 5
+http://nocable.cc:8080/5AGbfz/324331/47446
