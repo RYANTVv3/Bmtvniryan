@@ -3,8 +3,8 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" ch-number="" group-title="RYANTV CHANNELS",NBA PLAYOFFS
-https://cdn.djdoolky76.net/nbalp/kekwlp.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" ch-number="" group-title="RYANTV CHANNELS", NBA PLAYOFFS
+http://cdn.djdoolky76.net/nbalp/kekwlp.m3u
 
 
 
