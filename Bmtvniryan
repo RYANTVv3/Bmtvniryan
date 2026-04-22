@@ -4,7 +4,7 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" ch-number="" group-title="RYANTV CHANNELS", NBA PLAYOFFS
-http://cdn.djdoolky76.net/nbalp/kekwlp.m3u
+https://cdn.djdoolky76.net/nbalp/kekwlp.m3u
 
 
 
@@ -39,13 +39,9 @@ https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 14; CLK-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36"}
 http://103.236.179.86:80/live/rictms/rictms/15266.m3u8
 
-#http://tvnijuan.net:38081/live/rictms/rictms/609.m3u8
-
 #EXTINF:5 tvg-id="8001B317.0000000000074F18.0065" provider="RYANTV" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/fDhBrB4.png" provider-logo="" provider-type="iptv" ch-number="407" group-title="RYANTV CHANNELS",I Heart Movies
 #EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 14; CLK-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36"}
 http://103.236.179.86:80/live/rictms/rictms/6175.m3u8
-
-#http://tvnijuan.net:38081/live/rictms/rictms/608.m3u8
 
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-One.jpg" ch-number="36" group-title="RYANTV CHANNELS",CinemaOne original
