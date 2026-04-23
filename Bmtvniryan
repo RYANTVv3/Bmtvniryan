@@ -4,17 +4,17 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
-#EXTINF:27 group-title="NBA PLAYOFFS" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA PLAYOFFS1
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=9af292237251906d86d9021405e882247e6ddbee83367039621bab2f25eee121
+#EXTINF:27 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 1
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=8b7c22e8b1900fe27cd0afd689f52bea0a9770dccbb3e79ec3e8d455d323f3a2
 
-#EXTINF:28 group-title="NBA PLAYOFFS" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA PLAYOFFS2
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=9af292237251906d86d9021405e882247e6ddbee83367039621bab2f25eee121
+#EXTINF:28 group-title="NBALP" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 2
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=8b7c22e8b1900fe27cd0afd689f52bea0a9770dccbb3e79ec3e8d455d323f3a2
 
-#EXTINF:28 group-title="NBA PLAYOFFS" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA PLAYOFFS3
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=9af292237251906d86d9021405e882247e6ddbee83367039621bab2f25eee121
+#EXTINF:28 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 3
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=8b7c22e8b1900fe27cd0afd689f52bea0a9770dccbb3e79ec3e8d455d323f3a2
 
-#EXTINF:29 group-title="NBA PLAYOFFS" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA PLAYOFFS4
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=9af292237251906d86d9021405e882247e6ddbee83367039621bab2f25eee121
+#EXTINF:29 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA Leauge Pass 4
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=8b7c22e8b1900fe27cd0afd689f52bea0a9770dccbb3e79ec3e8d455d323f3a2
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y8TaHlk.png" ch-number="" group-title="RYANTV CHANNELS",TAP Silog
