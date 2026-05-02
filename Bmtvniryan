@@ -4,7 +4,7 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
-#EXTINF:-1 tvg-id="8910" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="RYANTV CHANNELS",Naoya Inoue vs Junto Nakatani (live)
+#EXTINF:-1 tvg-id="8910" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="RYANTV CHANNELS",Naoya Inoue vs Junto Nakatani (Live)
 
 
 #EXTINF:27 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 1
