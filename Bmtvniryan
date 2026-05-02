@@ -4,23 +4,18 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
-#EXTINF:-1 tvg-id="8910" tvg-logo="https://github.com/BuddyChewChew/sports/blob/main/sports%20logos/powerstreams.png?raw=true" group-title="… Other",Naoya Inoue vs Junto Nakatani (English)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://streams.center/
-https://mainstreams.pro/hls/oeenzgezcz47.m3u8?st=LZYxWxZb9Iz8z-5bWG3DEUadrpKqKwvJHJxYQTt9S_4&e=1777713117
-
-
 #EXTINF:27 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 1
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
+https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=f7d38b2feb3a2a8d1a4fbd323934e37f8e2613d22321d36ccee2f14fb4a510eb
 
 #EXTINF:28 group-title="NBALP" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 2
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
+https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=f7d38b2feb3a2a8d1a4fbd323934e37f8e2613d22321d36ccee2f14fb4a510eb
 
 #EXTINF:28 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 3
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
+https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=f7d38b2feb3a2a8d1a4fbd323934e37f8e2613d22321d36ccee2f14fb4a510eb
 
 #EXTINF:29 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 4
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=d3880610b21937fadb3f61246c14885ada98d68f2d378e11601f43d3838b065a
+https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=f7d38b2feb3a2a8d1a4fbd323934e37f8e2613d22321d36ccee2f14fb4a510eb
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y8TaHlk.png" ch-number="" group-title="RYANTV CHANNELS",TAP Silog
 http://tvnijuan.net:25461/live/rictms/rictms/1392.m3u8
