@@ -43,13 +43,12 @@ https://s3u.mindspirecreative.sbs/v4/xy/615jw3/index-f2-v1-a1.txt
 #EXTVLCOPT:http-referrer=https://gia.tv/
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
 
-#EXTINF:4 tvg-id="8001B317.0000000000074F18.0062" provider="RYANTV" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/2L3JzLv.png" provider-logo="" provider-type="iptv" ch-number="406" group-title="RYANTV CHANNELS",Heart Of Asia
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 14; CLK-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36"}
-http://103.236.179.86:80/live/rictms/rictms/15266.m3u8
+#EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/b0/99/30/b09930e0329bb8444487393c62370e05.jpg" group-title="RYANTV CHANNELS", Heart of Asia
+http://hls.nathcreqtives.com/playlist.m3u8?id=1&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NzE1OTI1NSwiZXhwIjoxNzc4NDU1MjU1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Nzg0NTUyNTUsImFsbG93ZWRPcmlnaW5zIjpbXX0.0_QV6_QSy23roRUw7_g6JznC3Gv85_dU-GcGn6-A_Dw
 
-#EXTINF:5 tvg-id="8001B317.0000000000074F18.0065" provider="RYANTV" codec="vnd.apple.mpegurl" tvg-logo="https://i.imgur.com/fDhBrB4.png" provider-logo="" provider-type="iptv" ch-number="407" group-title="RYANTV CHANNELS",I Heart Movies
-#EXTHTTP:{"user-agent":"Mozilla/5.0 (Linux; Android 14; CLK-LX2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.6834.163 Mobile Safari/537.36"}
-http://103.236.179.86:80/live/rictms/rictms/6175.m3u8
+#EXTINF:-1 ch-number="78" tvg-chno="35" tvg-id="DummyChannel" tvg-logo="https://i.pinimg.com/736x/0d/9e/96/0d9e9638b9208f5c060637f843573c62.jpg" group-title="RYANTV CHANNELS", I Heart Movies
+http://hls.nathcreqtives.com/playlist.m3u8?id=2&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJrYW5lY29ybyIsImlhdCI6MTc3NzE1OTI1NSwiZXhwIjoxNzc4NDU1MjU1LCJhY2NvdW50RXhwaXJlZCI6ZmFsc2UsImFjY291bnRFeHBpcmVzQXQiOjE3Nzg0NTUyNTUsImFsbG93ZWRPcmlnaW5zIjpbXX0.0_QV6_QSy23roRUw7_g6JznC3Gv85_dU-GcGn6-A_Dw
+
 
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-One.jpg" ch-number="36" group-title="RYANTV CHANNELS",CinemaOne original
