@@ -4,18 +4,12 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
-#EXTINF:27 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 1
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=dd78532c1a16d1fdb26c0ddb504629fd7c9542f2337422bf05c87f747075f469
-
-#EXTINF:28 group-title="NBALP" tvg-id="iptv/live2" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 2
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=dd78532c1a16d1fdb26c0ddb504629fd7c9542f2337422bf05c87f747075f469
-
-#EXTINF:28 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 3
-https://nbalp.djdoolky76.io/stream/nbalp/live3/master.m3u8?u=gratisph&p=dd78532c1a16d1fdb26c0ddb504629fd7c9542f2337422bf05c87f747075f469
-
-#EXTINF:29 group-title="NBALP" tvg-id="iptv/live" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",NBA League Pass 4
-https://nbalp.djdoolky76.io/stream/nbalp/live4/master.m3u8?u=gratisph&p=dd78532c1a16d1fdb26c0ddb504629fd7c9542f2337422bf05c87f747075f469
-
+#EXTINF:-1 group-title="RYANTV NBA LIVE",NBA: ABC (Games Only)
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/102373.ts
+#EXTINF:-1 group-title="RYANTV NBA LIVE",NBA: ESPN (Games Only)
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/102141.ts
+#EXTINF:-1 group-title="RYANTV NBA LIVE",NBA: NBC (Games Only)
+http://primestreams.tv:826/live/LouCarey/KYsHfE1YLU/102142.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y8TaHlk.png" ch-number="" group-title="RYANTV CHANNELS",TAP Silog
