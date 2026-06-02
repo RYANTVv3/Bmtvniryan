@@ -6,18 +6,10 @@ M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
 
 
+#EXTINF:1 group-title="NBAFINALS" tvg-id="" tvg-logo="https://i.imghippo.com/files/pTwT3502nZI.jpg?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE
+https://nbalp.djdoolky76.net/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
 
-#EXTINF:1 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 1 (SERVER1)
-https://nbalp.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
 
-#EXTINF:1 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 1 (SERVER2)
-https://nbalp2.djdoolky76.io/stream/nbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
-
-#EXTINF:2 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 2 (SERVER1)
-https://nbalp.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
-
-#EXTINF:2 group-title="NBALP" tvg-id="" tvg-logo="https://github.com/djdoolky76/tv-channel-logos/blob/main/misc/sports/ppv-live/nba-league-pass-hz.png?raw=true" provider="NBALP" provider-logo="" provider-type="iptv",LIVE 2 (SERVER2)
-https://nbalp2.djdoolky76.io/stream/nbalp/live2/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
 
 
 
