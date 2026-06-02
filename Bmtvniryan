@@ -357,12 +357,9 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2502/default_ott.mpd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/crime_invest/default/index.mpd
 
 #############№################################
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.nba.com/manage/2021/02/NBATV-logo-horizontal.jpg" group-title="RYANTV CHANNELS", NBA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+
+#EXTINF:-1 tvg-id="Cgnl.Nba.ph" tvg-logo="https://i.imgur.com/S709rNK.png" ch-number="" group-title="RYANTV CHANNELS",NBATV Philippines
+http://tvnijuan.net:25461/live/rictms/rictms/1408.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XOm9440too.png" group-title="RYANTV CHANNELS", HBO Boxing
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -377,69 +374,6 @@ https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/o
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-pbb-live-dash-abscbnono/index.mpd
 
 #EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA TV
-http://fortv.cc:8080/live/Tacha257/gNs7lQv84F/20073.ts
-#EXTINF:-1 tvg-id="AtlantaHawks.nba" tvg-name="Atlanta Hawks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
-#EXTINF:-1 tvg-id="NBA-BostonCeltics.us" tvg-name="Boston Celtics" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
-#EXTINF:-1 tvg-id="BrooklynNets.nba" tvg-name="Brooklyn Nets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
-#EXTINF:-1 tvg-id="CharlotteHornets.nba" tvg-name="Charlotte Hornets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83045.ts
-#EXTINF:-1 tvg-id="NBA-ChicagoBulls.us" tvg-name="Chicago Bulls" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83048.ts
-#EXTINF:-1 tvg-id="ClevelandCavaliers.nba" tvg-name="Cleveland Cavaliers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/86042.ts
-#EXTINF:-1 tvg-id="NBA-DallasMavericks.us" tvg-name="Dallas Mavericks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83048.ts
-#EXTINF:-1 tvg-id="NBA-DenverNuggets.us" tvg-name="Denver Nuggets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83050.ts
-#EXTINF:-1 tvg-id="DetroitPistons.nba" tvg-name="Detroit Pistons" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83049.ts
-#EXTINF:-1 tvg-id="GoldenStateWarriors.nba" tvg-name="Golden State Warriors" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/86052.ts
-#EXTINF:-1 tvg-id="HoustonRockets.nba" tvg-name="Houston Rockets" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83048.ts
-#EXTINF:-1 tvg-id="IndianaPacers.nba" tvg-name="Indiana Pacers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83045.ts
-#EXTINF:-1 tvg-id="LosAngelesClippers.nba" tvg-name="Los Angeles Clippers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83052.ts
-#EXTINF:-1 tvg-id="LosAngelesLakers.nba" tvg-name="Los Angeles Lakers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
-#EXTINF:-1 tvg-id="MemphisGrizzlies.nba" tvg-name="Memphis Grizzlies" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83049.ts
-#EXTINF:-1 tvg-id="MiamiHeat.nba" tvg-name="Miami Heat" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83052.ts
-#EXTINF:-1 tvg-id="MilwaukeeBucks.nba" tvg-name="Milwaukee Bucks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83045.ts
-#EXTINF:-1 tvg-id="MinnesotaTimberwolves.nba" tvg-name="Minnesota Timberwolves" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
-#EXTINF:-1 tvg-id="NewOrleansPelicans.nba" tvg-name="New Orleans Pelicans" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83043.ts
-#EXTINF:-1 tvg-id="NewYorkKnicks.nba" tvg-name="New York Knicks" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83047.ts
-#EXTINF:-1 tvg-id="OklahomaCityThunder.nba" tvg-name="Oklahoma City Thunder" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83043.ts
-#EXTINF:-1 tvg-id="OrlandoMagic.nba" tvg-name="Orlando Magic" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
-#EXTINF:-1 tvg-id="Philadelphia76ers.nba" tvg-name="Philadelphia 76ers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/86042.ts
-#EXTINF:-1 tvg-id="PhoenixSuns.nba" tvg-name="Phoenix Suns" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83049.ts
-#EXTINF:-1 tvg-id="NBA-PortlandTrailBlazers.us" tvg-name="Portland Trail Blazers" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83043.ts
-#EXTINF:-1 tvg-id="NBA-SacramentoKings.us" tvg-name="Sacramento Kings" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/86052.ts
-#EXTINF:-1 tvg-id="SanAntonioSpurs.nba" tvg-name="San Antonio Spurs" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83044.ts
-#EXTINF:-1 tvg-id="TorontoRaptors.nba" tvg-name="Toronto Raptors" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83047.ts
-#EXTINF:-1 tvg-id="UtahJazz.nba" tvg-name="Utah Jazz" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83046.ts
-#EXTINF:-1 tvg-id="WashingtonWizards.nba" tvg-name="Washington Wizards" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA LEAGUE PASS
-http://supersonictv.live:8080/live/Jacq/Carr8476/83047.ts
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz"
-
 
 #EXTINF:-1 tvg-id="Baywatch" tvg-name="Baywatch" tvg-logo="https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png" group-title="RYANTV CHANNELS",Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
@@ -605,19 +539,12 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/bilyonaryoch/default1/inde
 #KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:3471b2464b5c7b033a03bb8307d9fa35
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_tvnmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A8AAA-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="14" group-title="RYANTV CHANNELS", PBO
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcbdaaa6662d4188bdf97f9f0ca5e830:31e752b441bd2972f2b98a4b1bc1c7a1
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pbo_sd/default/index.mpd
+#EXTINF:-1 tvg-id="Pbo.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Pinoy-Box-Office.jpg" ch-number="34" group-title="RYANTV CHANNELS",PBO
+http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAq9SZLE5HgafIcQ2VcLQB9EsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001137&contentid=ch00000000000000001137&videoid=ch00000090990000001078&recommendtype=0&userid=1960500443734&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=8WK79ZSBXVGXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447120260101155236008695&ispcode=55
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AA120-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="15" group-title="RYANTV CHANNELS", Viva Cinema
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=07aa813bf2c147748046edd930f7736e:3bd6688b8b44e96201e753224adfc8fb
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
+#EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Viva-Cinema.jpg" ch-number="35" group-title="RYANTV CHANNELS",VIVA Cinema
+http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" channel-number="16" group-title="RYANTV CHANNELS", TMC (Tagalized Movie Channel)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -626,12 +553,8 @@ https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/viva_sd/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=96701d297d1241e492d41c397631d857:ca2931211c1a261f082a3a2c4fd9f91b
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_tagalogmovie/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" channel-number="17" group-title="RYANTV CHANNELS", Celestial Movies Pinoy
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0f8537d8412b11edb8780242ac120002:2ffd7230416150fd5196fd7ea71c36f3
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/celmovie_pinoy_sd/default/index.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" ch-number="39" group-title="RYANTV CHANNELS",Celestial Movies Pinoy
+http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/2vImVJE.png" channel-number="18" group-title="RYANTV CHANNELS", Thrill
 #KODIPROP:inputstreamaddon=inputstream.adaptive
