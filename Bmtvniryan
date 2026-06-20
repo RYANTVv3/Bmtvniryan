@@ -3,6 +3,17 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
+
+#EXTINF:-1 tvg-id="premiersports" tvg-name="Premier Sports" tvg-chno="4" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155044-0kku5yurn6llsmti.png" group-title="RYANTV CHANNELS", Premier Sports
+http://cdn2.djdoolky76.com/blast/220944.m3u8
+
+#EXTINF:-1 tvg-id="premiersports2" tvg-name="Premier Sports 2" tvg-chno="5" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155105-tfcip80gbtqkmoup.png" group-title="RYANTV CHANNELS", Premier Sports 2
+http://cdn2.djdoolky76.com/blast/220945.m3u8
+
+#EXTINF:-1 tvg-id="premiertennis" tvg-name="Premier Tennis" tvg-chno="6" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/01/05073557-wujr2kc1lk8ilmcy.png" group-title="RYANTV CHANNELS", Premier Tennis
+http://cdn2.djdoolky76.com/blast/220960.m3u8
+
+
 #EXTINF:-1  tvg-id="udptv/ppvch1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",PPV CH1
 https://box.djdoolky76.net/stream/udptv/ppvch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
