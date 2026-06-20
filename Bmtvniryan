@@ -3041,7 +3041,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_pbarush_hd1/default/ind
 #KODIPROP:inputstream.adaptive.license_key=53c3bf2eba574f639aa21f2d4409ff11:3de28411cf08a64ea935b9578f6d0edd
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_onesports_hd/default/index.mpd
 
-#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="RYANTV CHANNELS" , One Sports+
+#EXTINF:-1 tvg-id="cg_onesportsplus_hd1" tvg-logo="https://i.imgur.com/D33wRIq.png" group-title="RYANTV CHANNELS", One Sports+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
