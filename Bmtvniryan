@@ -3,6 +3,30 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
+#EXTINF:-1  tvg-id="udptv/ppvch1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",PPV CH1
+https://box.djdoolky76.net/stream/udptv/ppvch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/ppvch2" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",PPV CH2
+https://box.djdoolky76.net/stream/udptv/ppvch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+#EXTINF:-1  tvg-id="udptv/starhubfifawcch1" tvg-logo="https://poster.starhubgo.com/Linear_channels2/251_1920x1080_HTV.png" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",STARHUB | FIFAWCCh1
+https://box.djdoolky76.net/stream/udptv/starhubfifawcch1/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/starhubfifawcch2" tvg-logo="https://poster.starhubgo.com/Linear_channels2/252_1920x1080_HTV.png" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",STARHUB | FIFAWCCh2
+https://box.djdoolky76.net/stream/udptv/starhubfifawcch2/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/foxfifa" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",FOX | FIFA
+https://box.djdoolky76.net/stream/udptv/foxfifa/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",FOX | FIFA FHD
+https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptv/foxfifa4k" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",FOX | FIFA 4K
+https://box.djdoolky76.net/stream/udptv/foxfifa4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+#EXTINF:-1  tvg-id="udptvus/fox4k" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",FOX 4K
+https://box.djdoolky76.net/stream/udptvus/fox4k/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
+
+
 
 #EXTINF:-1 group-title="Movies - English" tvg-id="Man_On_The_Run" tvg-logo="https://image.tmdb.org/t/p/w500/qX0hwcKvO3FNkI3JMBUnQ3wxKEI.jpg",Man On The Run (2026) 🆕
 http://cinehub24.com/ftp/Movies/hollywood/2025/Man%20on%20the%20Run%20%282025%29/Man%20on%20the%20Run%20%282025%29.mp4
