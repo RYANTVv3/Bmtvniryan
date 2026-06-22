@@ -4,6 +4,13 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
+#EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="RYANTV CHANNELS",I Heart Movies
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
+#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="RYANTV CHANNELS",Heart of Asia
+https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
+
 #EXTINF:-1 tvg-id="premiersports" tvg-name="Premier Sports" tvg-chno="4" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155044-0kku5yurn6llsmti.png" group-title="RYANTV CHANNELS", Premier Sports
 http://cdn2.djdoolky76.com/blast/220944.m3u8
 
