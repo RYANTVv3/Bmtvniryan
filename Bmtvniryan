@@ -10,6 +10,21 @@ https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae
 #EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="RYANTV CHANNELS",Heart of Asia
 https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=d0475082894a131707d75e3ae57d6608
 
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="Adventure Earth" tvg-logo="https://www.sefiles.net/merchant/5511/images/site/logo_ae_300x80.png",Adventure Earth
+https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="AmazingDiscoveriesTV" tvg-logo="https://www.adventisttv.org/assets/img/main/ADTV.png",Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="GBBD500005ZG" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD500005ZG_20250107T030744SQUARE.png",Robot Wars by Mech+
+https://0a644b20819046a0935afa1cf6debf23.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-gb_MechPlus/playlist.m3u8?ads.wurl_channel=1413&ads.wurl_name=MechPlus&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="America's Got Talent" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300002GG_20250722T005726SQUARE.png",America's Got Talent
+https://d2mexh8isep4mf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wp08v1ibrni4i/AmericasGotTalent_GB.m3u8
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="American Idol" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBC2300001X5_20250610T011245SQUARE.png",American Idol
+https://d2yn8dyffvmgy.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2mt12zhezzrsh/AmericanIdol_GB.m3u8
+#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="Antiques Road Trip" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3000387J_20250624T021653SQUARE.png",Antiques Road Trip
+https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9435fptcvdedz/PBSART_GB.m3u8
+
 
 #EXTINF:-1 tvg-id="premiersports" tvg-name="Premier Sports" tvg-chno="4" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155044-0kku5yurn6llsmti.png" group-title="RYANTV CHANNELS", Premier Sports
 http://cdn2.djdoolky76.com/blast/220944.m3u8
