@@ -3783,27 +3783,3 @@ http://supersonictv.live:8080/live/Jacq/Carr8476/79034.m3u8
 http://supersonictv.live:8080/live/Jacq/Carr8476/79035.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Tom and Jerry" tvg-logo="https://i.imghippo.com/files/GtPX1820po.png" group-title="4KIDS 24/7 RYANTV CHANNELS",Tom and Jerry
 http://supersonictv.live:8080/live/Jacq/Carr8476/79036.m3u8
-#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport1.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-name="TNT Sports 1",TNT Sports 1
-http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1614.ts
-#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport2.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-name="TNT Sports 2",TNT Sports 2
-http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1615.ts
-
-#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport3.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-name="TNT Sports 3",TNT Sports 3
-http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1616.ts
-
-#EXTINF:-1 group-title="RYANTV CHANNELS" tvg-id="TNTSport4.uk" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-name="TNT Sports 4",TNT Sports 4
-http://boxviptv.com:25461/live/Emin0282/elsen0552787979/1616.ts
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 1" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 1
-http://nocable.cc:8080/5AGbfz/324331/47440
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 2" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 2
-http://nocable.cc:8080/5AGbfz/324331/16129
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 3" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 3
-http://nocable.cc:8080/5AGbfz/324331/47442
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 4" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 4
-http://nocable.cc:8080/5AGbfz/324331/47444
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 5
-http://nocable.cc:8080/5AGbfz/324331/47446
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TSN 5" tvg-logo="https://i.imghippo.com/files/MURR2119sKk.jpg" group-title="RYANTV CHANNELS",TSN 5
-http://nocable.cc:8080/5AGbfz/324331/47446
