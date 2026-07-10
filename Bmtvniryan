@@ -3046,7 +3046,7 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=40E328E7-FE69-4287-86EA-FA942A7EA302
+#KODIPROP:inputstream.adaptive.license_key="6f9c3a218d454b70a2187e5c3d6f9042:337ca7b74b462dd1ba7441553614538a
 https://ucdn.mediaquest.com.ph/bpk-tv/cg_dreamworktag/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55AC696-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="40" group-title="RYANTV CHANNELS", Moonbug Kids
