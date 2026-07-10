@@ -27,12 +27,9 @@ https://d3v8uchko88gmi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 #EXTINF:-1 tvg-id="premiersports" tvg-name="Premier Sports" tvg-chno="4" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155044-0kku5yurn6llsmti.png" group-title="RYANTV CHANNELS", Premier Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b8b595299fdf41c1a3481fddeb0b55e4:cd2b4ad0eb286239a4a022e6ca5fd007
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_ps_hd1/default/index.mpd
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=91e4c6725a834d198f602c7b9e3a5148:4185d260443198690be03e294fdc1240
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-id="premiersports2" tvg-name="Premier Sports 2" tvg-chno="5" tvg-logo="https://img.dge-prod.dicelaboratory.com/original/2026/04/30155105-tfcip80gbtqkmoup.png" group-title="RYANTV CHANNELS", Premier Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
