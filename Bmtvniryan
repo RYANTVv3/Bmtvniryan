@@ -2890,7 +2890,11 @@ http://136.239.173.2:6610/001/2/ch00000090990000001198/manifest.mpd?AuthInfo=v87
 
 
 #EXTINF:-1 tvg-id="cg_buko_sd" tvg-logo="https://i.imgur.com/Wv0K5Yc.png" group-title="RYANTV CHANNELS",BuKO
-http://pro.reott8k.xyz/play/live.php?mac=00:1A:79:7b:ab:a5&stream=440574&extension=m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c8b1d5f42a674e93b8016f2d9c7a5e34:168bbf02d7eca252a61a402e25cb33f5
+https://ucdn.mediaquest.com.ph/bpk-tv/cg_buko_sd/default/index.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55ADE4C-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="3" group-title="RYANTV CHANNELS", Sari-Sari
 #KODIPROP:inputstreamaddon=inputstream.adaptive
