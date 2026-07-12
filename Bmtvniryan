@@ -4,11 +4,6 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/17FKeQ6.png",STARZPLAY Sports 3
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=117c29396ec6fd295880013241a466e1:3dfb883251884e66d784111877c44b13
-https://mc-dey9dtydbj.bunny.run/starzsports1/dopamine/manifest.mpd
-
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="RYANTV CHANNELS",I Heart Movies
 https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
@@ -2382,69 +2377,7 @@ http://websafety101.net:5050/JT2024/wxApKJ57yy/682751
 http://websafety101.net:5050/JT2024/wxApKJ57yy/682752
 
 
-@@@@@@@@@@@@
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="608" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 1
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="609" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 2
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="610" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 3
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="611" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 4
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="612" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 5
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="613" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 6
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="614" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 7
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="615" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 8
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="616" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 9
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/FlT7LFR.png" ch-number="617" group-title="🔹Pilipinas Live Channels" ,Pilipinas Live 10
-#EXTVLCOPT:http-referrer=https://pilipinaslive.com/liveevent/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
-
+@@@@@@@@@@@
 
 
 
