@@ -4,6 +4,69 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
+#EXTINF:-1 tvg-chno="5" channel-number="5" tvg-id="5" tvg-logo="https://i.imgur.com/OMGlC4R.jpg" tvg-name="3rsCartoonChannels" group-title="RYANTV CHANNELS",3rsCartoonChannels
+https://3rscartoonmovies.tonia3305.workers.dev/kolet.m3u8
+
+#EXTINF:-1 tvg-chno="8" channel-number="8" tvg-id="8" tvg-logo="https://i.imgur.com/L8seHZE.jpeg" tvg-name="ASIA FLIX TV" group-title="RYANTV CHANNELS",ASIA FLIX TV
+https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="10" channel-number="10" tvg-id="10" tvg-logo="https://i.imgur.com/QalEBc8.jpeg" tvg-name="STAR TELEVISION" group-title="RYANTV CHANNELS",STAR TELEVISION
+https://startelevisionph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="11" channel-number="11" tvg-id="11" tvg-logo="https://i.imgur.com/VEpLVW0.jpeg" tvg-name="STAR TV PHILIPPINES" group-title="RYANTV CHANNELS",STAR TV PHILIPPINES
+https://startvphilippines.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="12" channel-number="12" tvg-id="12" tvg-logo="https://i.imgur.com/PfqrJEf.png" tvg-name="HYPE TV" group-title="RYANTV CHANNELS",HYPE TV
+https://hypetvphbydtmmbs.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="13" channel-number="13" tvg-id="13" tvg-logo="https://i.imgur.com/sKMOzY7.jpeg" tvg-name="DREAM TV PHILIPPINES" group-title="RYANTV CHANNELS",DREAM TV PHILIPPINES
+https://dreamtvph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="14" channel-number="14" tvg-id="14" tvg-logo="https://i.imgur.com/gR8HDzY.png" tvg-name="SINE PLUS" group-title="RYANTV CHANNELS",SINE PLUS
+https://sineplusph.itunerworldwide.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-chno="15" channel-number="15" tvg-logo="https://imgur.com/44LgASs.png" tvg-name="SOUTH STAR TV" group-title="RYANTV CHANNELS",SOUTH STAR TV
+https://southstartv.tonia3305.workers.dev/master.live.m3u8
+
+#EXTINF:-1 tvg-chno="16" channel-number="16" tvg-id="16" tvg-logo="https://i.imgur.com/dpGrvi4.jpeg" tvg-name="DURIAN TV" group-title="RYANTV CHANNELS",DURIAN TV
+https://duriantv.tonia3305.workers.dev/master.live.m3u8
+
+
+
+#EXTINF:-1 tvg-chno="17" channel-number="17" tvg-id="17" group-title="RYANTV CHANNELS" tvg-logo="https://i.imgur.com/1vKAozn.png",MN+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+
+#EXTINF:-1 tvg-chno="18" channel-number="18" tvg-id="18" group-title="RYANTV CHANNELS" tvg-logo="https://i.imgur.com/9QSwrlt.jpeg",MNX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-chno="19" channel-number="19" tvg-id="19" group-title="RYANTV CHANNELS" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg",MOVIES NOW
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-chno="20" channel-number="20" tvg-id="20" tvg-logo="https://i.imgur.com/eJFEVzn.jpeg" tvg-name="Star Movies FHD" group-title="RYANTV CHANNELS",Star Movies FHD
+http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="21" channel-number="21" tvg-id="21" tvg-logo="https://i.imgur.com/0y5TVLv.png" tvg-name="Star Movies Select FHD" group-title="RYANTV CHANNELS",Star Movies Select FHD
+http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-chno="22" channel-number="22" tvg-id="22" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg" tvg-name="Movies Action" group-title="RYANTV CHANNELS",Movies Action
+https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
+
+
+
+
 
 #EXTINF: -1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="RYANTV CHANNELS",I Heart Movies
 https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
