@@ -3,17 +3,7 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
-#EXTINF:1 group-title="WNBA League pass" tvg-id="wnbatv/espn" tvg-logo="https://www.cabletv.com/app/uploads/2022/05/wnba-league-pass.png" provider="WNBALP" provider-logo="" provider-type="wnbatv",LIVE
-https://nbalp2.djdoolky76.io/stream/wnbalp/live/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
 
-#EXTINF:2 group-title="WNBA League pass" tvg-id="wnbatv/live" tvg-logo="https://www.cabletv.com/app/uploads/2022/05/wnba-league-pass.png" provider="WNBALP" provider-logo="" provider-type="wnbatv",LIVE 2
-https://nbalp2.djdoolky76.io/stream/wnbalp/live2/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
-
-#EXTINF:3 group-title="WNBA League pass" tvg-id="wnbatv/live2" tvg-logo="https://www.cabletv.com/app/uploads/2022/05/wnba-league-pass.png" provider="WNBALP" provider-logo="" provider-type="wnbatv",LIVE 3
-https://nbalp2.djdoolky76.io/stream/wnbalp/live3/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
-
-#EXTINF:4 group-title="WNBA League pass" tvg-id="wnbatv/live2" tvg-logo="https://www.cabletv.com/app/uploads/2022/05/wnba-league-pass.png" provider="WNBALP" provider-logo="" provider-type="wnbatv",LIVE 4
-https://nbalp2.djdoolky76.io/stream/wnbalp/live4/master.m3u8?u=gratisph&p=0792e0768d35c1038a8619275adefbab049f03d7ad08feebcb05fec8f9aca7a1
 
 #EXTINF:-1 tvg-chno="5" channel-number="5" tvg-id="5" tvg-logo="https://i.imgur.com/OMGlC4R.jpg" tvg-name="3rsCartoonChannels" group-title="RYANTV CHANNELS",3rsCartoonChannels
 https://3rscartoonmovies.tonia3305.workers.dev/kolet.m3u8
@@ -111,14 +101,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_ps_hd1/default/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=72e4b9c13f864a52a9178d6c0e5b2394:9390c1edae5ecf680c168daf44bf6a03
 https://ucdn.mediaquest.com.ph/bpk-tv/premiersports2hd/default/index.mpd
 
-#EXTINF:-1  tvg-id="udptv/ppvch1" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",PPV CH1
-http://wccdn.djdoolky76.net/stream/wctv/index.m3u8
-
-#EXTINF:-1  tvg-id="udptv/ppvch2" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/B7433AD5-4028-4F81-BFBD-F63110B0731A/0-16x9.jpg?width=203" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",PPV CH2
-http://wccdn.djdoolky76.net/stream/wctv2/index.m3u8
-
-#EXTINF:-1  tvg-id="udptv/foxfifafhd" tvg-logo="https://i.imgur.com/GBBCLJo.png" group-title="FIFA WORLD CUP" provider="" provider-type="iptv" provider-logo="",FOX | FIFA FHD
-https://box.djdoolky76.net/stream/udptv/foxfifafhd/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
 
 #EXTINF:-1 group-title="Movies - English" tvg-id="Man_On_The_Run" tvg-logo="https://image.tmdb.org/t/p/w500/qX0hwcKvO3FNkI3JMBUnQ3wxKEI.jpg",Man On The Run (2026) 🆕
 http://cinehub24.com/ftp/Movies/hollywood/2025/Man%20on%20the%20Run%20%282025%29/Man%20on%20the%20Run%20%282025%29.mp4
