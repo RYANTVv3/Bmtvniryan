@@ -2786,7 +2786,10 @@ https://box.djdoolky76.net/stream/udptv/hboboxing/master.m3u8?u=gratisph&p=b7594
 
 
 
-#EXTINF:-1 tvg-id="NBATV" tvg-name="NBA TV" tvg-logo="https://vp-txpro.com:443/images/9KHE8RQBvg9mzhjSf-IKKjfREtUUOQ1w-zlWJ9zg2cDWSnjWscLgTN96qKIQpxpY.jpg" group-title="NBA LEAGUE PASS",NBA TV
+#EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="RYANTV CHANNELS",NBATV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f7c9a615d834e40b2188a6d3c7f9042:41d2ade5ff1798859420e925d5d2080d
+https://ucdn.mediaquest.com.ph/bpk-tv/cgnl_nba/default/index.mpd
 
 #EXTINF:-1 tvg-id="Baywatch" tvg-name="Baywatch" tvg-logo="https://d2suk8s18omb4k.cloudfront.net/LG_Baywatch_Logo_800x200.png" group-title="RYANTV CHANNELS",Baywatch
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
