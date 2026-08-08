@@ -4,6 +4,9 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 ####£#£###££######################222
 
+#EXTINF:-167 tvg-logo="https://i.imgur.com/E1LIeR2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="RYANTV CHANNELS",ANIME X HIDIVE
+https://amc-anime-x-hidive-1-us.tablo.wurl.tv/playlist.m3u8
+
 #EXTINF:-1  tvg-name="RageTV" tvg-logo="https://i.imgur.com/Ym32WqZ.png" group-title="RYANTV CHANNELS" radio="false",RageTV
 https://live20.bozztv.com/giatv/giatv-ragetv/ragetv/playlist.m3u8
 
