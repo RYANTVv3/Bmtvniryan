@@ -165,9 +165,7 @@ http://103.185.24.134:3001/Star-Movies/tracks-v1a1/mono.m3u8
 http://103.185.24.134:3001/STAR-MOVIES-SEL-HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-chno="22" channel-number="22" tvg-id="22" tvg-logo="https://i.imgur.com/Y9gGFen.jpeg" tvg-name="Movies Action" group-title="RYANTV CHANNELS",Movies Action
-https://shls-live-ak.akamaized.net/out/v1/46079e838e65490c8299f902a7731168/index_2.m3u8
-
-
+https://mryuso.porhibitum.workers.dev/master.live.m3u8
 
 
 
