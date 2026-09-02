@@ -2433,40 +2433,14 @@ http://websafety101.net:5050/JT2024/wxApKJ57yy/682751
 #EXTINF:-1 tvg-id="" tvg-name="24/7: Zorro" tvg-logo="http://onlytimewilltell.xyz:2086/images/e68e5d5ae90edf90288c3741c6ad2f8a.jpg" group-title="24/7",24/7: Zorro
 http://websafety101.net:5050/JT2024/wxApKJ57yy/682752
 
-@@@@@@@@@@@
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/Y8TaHlk.png" ch-number="" group-title="RYANTV CHANNELS",TAP Silog
 http://tvnijuan.net:25461/live/rictms/rictms/1392.m3u8
-
-#EXTINF:-1 type="movie" group-title="RYANTV MOVIES 2026" tvg-id="tt6341826" tvg-imdb="tt6341826" tvg-tmdb="1032892" tvg-logo="https://image.tmdb.org/t/p/w500/4vWqIdoBavo1htxmxlScDniOS9C.jpg",In the Blink of an Eye (2026)
-#EXTVLCOPT:http-origin=https://amirahtv.art
-#EXTVLCOPT:http-referrer=https://amirahtv.art/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://s3u.mindspirecreative.sbs/v4/db/zblefh/index-f2-v1-a1.txt
-#EXTINF:-1 type="movie" group-title="RYANTV MOVIES 2026" tvg-id="tt15940132" tvg-imdb="tt15940132" tvg-tmdb="1265609" tvg-logo="https://image.tmdb.org/t/p/w500/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",War Machine (2026)
-#EXTVLCOPT:http-origin=https://amirahtv.art
-#EXTVLCOPT:http-referrer=https://amirahtv.art/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://s3u.mindspirecreative.sbs/v4/ho/w83n33/index-f2-v1-a1.txt
-#EXTINF:-1 type="movie" group-title="RYANTV MOVIES 2026" tvg-id="tt37764737" tvg-imdb="tt37764737" tvg-tmdb="1264805" tvg-logo="https://image.tmdb.org/t/p/w500/ivBI8FRQPIKzoZAryZK93xriOT.jpg",Once We Were Us (2026)
-#EXTVLCOPT:http-origin=https://amirahtv.art
-#EXTVLCOPT:http-referrer=https://amirahtv.art/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://s3u.mindspirecreative.sbs/v4/xy/615jw3/index-f2-v1-a1.txt
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EPR8oKZ.png" codec="auto" ch-number="" group-title="RYANTV CHANNELS",Cartoon Channel PH
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://gia.tv/
 https://live20.bozztv.com/giatv/giatv-cartoonchannelph/cartoonchannelph/playlist.m3u8
-
-
-
 
 #EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Cinema-One.jpg" ch-number="36" group-title="RYANTV CHANNELS",CinemaOne original
 http://136.239.158.10:6610/001/2/ch00000090990000001283/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAr2cQyuTRlDkHeiqeVidUqqsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001548&contentid=ch00000000000000001548&videoid=ch00000090990000001283&recommendtype=0&userid=1481102669463&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=7TIMXILHNX5XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445520260101155240041967&ispcode=55
@@ -2545,8 +2519,6 @@ http://tvnijuan.net:25461/live/rictms/rictms/1408.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XOm9440too.png" group-title="RYANTV CHANNELS", HBO Boxing
 https://box.djdoolky76.net/stream/udptv/hboboxing/master.m3u8?u=gratisph&p=b7594b1f3fc4330368923027acec015c59213e4ab57d0b52232b5b0f207b8703
-
-
 
 #EXTINF:-1 tvg-id="cgnl_nba" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/3327FF64-3E52-42DE-B516-4629BFABA8C7/0-16x9.jpg?width=1980" group-title="RYANTV CHANNELS",NBATV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
