@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>RYANTV — Web TV</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>RYANTV — Web TV</h1>
+    <div class="controls">
+      <input id="search" placeholder="Search channels..." />
+      <select id="groupFilter"><option value="">All groups</option></select>
+      <button id="reload">Reload</button>
+    </div>
+  </header>
+
+  <main>
+    <section id="channels"></section>
+    <aside id="player">
+      <video id="video" controls playsinline></video>
+      <div id="player-info">
+        <h2 id="now-title">Select a channel</h2>
+        <div class="player-actions">
+          <a id="open-external" target="_blank" rel="noopener">Open in new tab</a>
+          <a id="download-pl" href="#">Download playlist</a>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <footer>
+    <small>Playlist source: <span id="pl-url"></span></small>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
