@@ -4,6 +4,9 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 @@@@@@@@@####@########@@
 #EXTM3U
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.imghippo.com/files/RZI3184MC.webp" tvg-country="" tvg-url="" group-title="RYANTV MOVIES 2026",Love Ngo 
+https://movies.maflix.qzz.io/movies...62-3b48-4626-91fa-ba516ba17e46-1002348695.mp4
+
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" tvg-country="" tvg-url="" group-title="RYANTV MOVIES 2026", The Mongoose                   
 https://ctghall.com/Data/Movies/English/2026/The%20Mongoose%20(2026)/The.Mongoose.2026.1080p.WEBRip.x264.AAC-[YTS.GG%20-%20YTS.BZ].mp4
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/pu2VxGlpGwffOx292w18b1tv96j.jpg" tvg-country="" tvg-url="" group-title="RYANTV MOVIES 2026", Mutiny                   
