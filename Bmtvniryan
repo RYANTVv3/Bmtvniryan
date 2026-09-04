@@ -11,6 +11,13 @@ M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 https://movies.maflix.qzz.io/movies/1788352494901-98c57062-3b48-4626-91fa-ba516ba17e46-1002348695.mp4
 #EXT-X-ENDLIST
 
+#EXTINF: -1 tvg-id="" tvg-logo="https://i.imghippo.com/files/MQsq5636i.jpg" tvg-logo-small="https://i.imghippo.com/files/MQsq5636i.jpg" group-title="RYANTV CHANNELS",IHeartMovies
+#EXTGRP: RYANTV CHANNELS
+https://nokotan.anhkz.fr/channel/n696d5dc/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+#EXTINF: -1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="RYANTV CHANNELS",HeartofAsia
+#EXTGRP: RYANTV CHANNELS
+https://nokotan.anhkz.fr/channel/n5f560977/index.m3u8?q=d0475082894a131707d75e3ae57d6608
+
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://www.themoviedb.org/t/p/w1280/eSS5mvSG84UUuvtbHel5Yu3Wik4.jpg" tvg-country="" tvg-url="" group-title="RYANTV MOVIES 2026", The Mongoose                   
 https://ctghall.com/Data/Movies/English/2026/The%20Mongoose%20(2026)/The.Mongoose.2026.1080p.WEBRip.x264.AAC-[YTS.GG%20-%20YTS.BZ].mp4
