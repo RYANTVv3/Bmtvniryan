@@ -3,7 +3,7 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/Combat-Sports.png" group-title="PPV LIVE EVENTS",Boxing: Ryan Garcia vs Conor Benn
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imghippo.com/files/qcBw4533gMQ.webp" group-title="PPV LIVE EVENTS",Boxing: Ryan Garcia vs Conor Benn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
 https://admin2.formaturamaxi.com.br/ppv5.m3u8
 @@@@@@@@@####@########@@
