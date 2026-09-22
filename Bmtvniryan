@@ -3,9 +3,9 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imghippo.com/files/qcBw4533gMQ.webp" group-title="PPV LIVE EVENTS",Boxing: Ryan Garcia vs Conor Benn
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imgur.com/091wu23.png" group-title="RYANTV CHANNELS",UNDERCOVER BOSS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
-https://admin2.formaturamaxi.com.br/ppv5.m3u8
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
 @@@@@@@@@####@########@@
 #EXTM3U
 #EXT-X-VERSION:3
