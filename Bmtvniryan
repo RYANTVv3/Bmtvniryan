@@ -4065,12 +4065,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-stadium-sports
 #EXTINF:-1 tvg-id="FLS_671936aee4b561864c211127" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/a0198825-7700-4a3a-8399-338e8e1d9c64" group-title="RYANTV CHANNELS",ACE TV
 https://amg00585-amg00585c10-sportstribal-emea-5519.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-acetv-sportstribalemea/playlist.m3u8?channel_name=ACE%20TV&content_genre=Sport&ic=IAB17&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="RYANTV CHANNELS",RJTV 29
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1159/manifest.mpd
-
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Screenshot_2019-08-30_at_5.25.09_PM.png" group-title="RYANTV CHANNELS",RJTV 29
+http://136.239.158.10:6610/001/2/ch00000090990000001159/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BreKmZs4H3Zuj6jrvRtgmFqytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001395&contentid=ch00000000000000001395&videoid=ch00000090990000001159&recommendtype=0&userid=1981697457601&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=VPNC8TXZ55DXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 
 **********RYANTV V3 CHANNELS**********
@@ -4453,11 +4449,6 @@ https://ucdn.mediaquest.com.ph/bpk-tv/kix_hd1/default/index.mpd
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Kapamilya-Channel-HD.jpg" ch-number="8" group-title="RYANTV CHANNELS",Kapamilya HD
 http://136.158.97.2:6610/001/2/ch00000090990000001286/manifest.mpd?AuthInfo=Tajaqa%2FdPohvabxHbYUVrZLZDsxmxbufdpmz6ykZVY6w65FFCygtQMRRIUPF0xuXe9OnZTxGvJPcGpQT0Y5Pwg%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001694&contentid=ch00000000000000001694&videoid=ch00000090990000001286&recommendtype=0&userid=1878702116443&boid=001&stbid=02:00:00:00:00:00&terminalflag=1&profilecode=&usersessionid=1013243321&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
-#EXTINF:-1 tvg-id="1159" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="RYANTV CHANNELS",RJTV 29
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
-https://converse.nathcreqtives.com/1159/manifest.mpd
 
 **********RYANTV FM Radio**********
 
