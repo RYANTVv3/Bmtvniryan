@@ -3,7 +3,7 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-#EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f12723c57b75e0975c5e5b0df9fb8f59-thumbnail.jpg" group-title="NBA PPV", NBA PRESAESON LIVE
+#EXTINF:-1 tvg-logo="https://i.imgur.com/BZFABCj.png"group-title="NBA PPV", NBA PRESAESON LIVE
 https://velive.lat:443/JorgeLeon/JorgeLeon/367318
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imghippo.com/files/MS7869TpA.jpg"group-title="RYANTV CHANNELS",UNDERCOVER BOSS
