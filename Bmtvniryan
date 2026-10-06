@@ -4,7 +4,7 @@ M3U playlist
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
 #EXTINF:-1 tvg-logo="https://static.ppvservices.st/assets/thumb/f12723c57b75e0975c5e5b0df9fb8f59-thumbnail.jpg" group-title="NBA PPV", NBA PRESAESON LIVE
-https://ppv.1688848.xyz/play?slug=nba/2026-10-03/mia-tor
+https://velive.lat:443/JorgeLeon/JorgeLeon/478929
 
 #EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://i.imghippo.com/files/MS7869TpA.jpg"group-title="RYANTV CHANNELS",UNDERCOVER BOSS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:139.0) Gecko/20100101 Firefox/139.0
