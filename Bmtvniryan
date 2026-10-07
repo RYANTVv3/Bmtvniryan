@@ -4153,10 +4153,8 @@ http://136.239.158.18:6610/001/2/ch00000090990000001078/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-id="VIVA.Cinema.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Viva-Cinema.jpg" ch-number="35" group-title="RYANTV CHANNELS",VIVA Cinema
 http://136.239.159.20:6610/001/2/ch00000090990000001079/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMAoglCgy7TAZamPXsCV8PgebsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001138&contentid=ch00000000000000001138&videoid=ch00000090990000001079&recommendtype=0&userid=1022847749017&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LZTWKL0XP7XXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20445920260101155236183812&ispcode=55
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/A9E09C52-721F-4316-ABB9-35EF145B69C0/0-16x9.jpg?width=1980" channel-number="16" group-title="RYANTV CHANNELS", TMC (Tagalized Movie Channel)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27f6c4818a534d09b2169e5c7a3f6048:fbd8e319511ff5a1593f5b68da7b81cd
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_tagalogmovie/default/index.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6mNCite.png" group-title="RYANTV CHANNELS", TMC
+http://136.239.159.20:6610/001/2/ch00000090990000001080/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BrHx%2Fyl86rMkFVqtHp1NtQIytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001153&contentid=ch00000000000000001153&videoid=ch00000090990000001080&recommendtype=0&userid=1123674387331&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=OWFM2G9EILPXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images/Celestial-Logo-2022.jpg" ch-number="39" group-title="RYANTV CHANNELS",Celestial Movies Pinoy
 http://136.239.158.30:6610/001/2/ch00000090990000001077/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMArHUpvQtyXgWxpVCozt4hcgsyK4TH4mOENKJ45mwOyS0g%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001136&contentid=ch00000000000000001136&videoid=ch00000090990000001077&recommendtype=0&userid=1058297419636&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=B8CE333QUH6XXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20447420260101155236077598&ispcode=55
@@ -4200,10 +4198,8 @@ https://ucdn.mediaquest.com.ph/bpk-tv/cg_hbohits/default/index.mpd
 #EXTINF:-1 tvg-id="TAPACTIONFLIX.ph" tvg-logo="https://cms.cignal.tv/Upload/Images/Tap-Action-Flix.jpg" ch-number="47" group-title="RYANTV CHANNELS",Tap Actionflix
 http://161.49.17.2:6610/001/2/ch00000090990000001305/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20TsXah2%2FZLFNNIdWrVrXDMApahcUJJEYAxPtEef94INw12%2FjHNuou2Jtxin49X3LQKw%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001775&contentid=ch00000000000000001775&videoid=ch00000090990000001305&recommendtype=0&userid=1992031084771&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=HTEZZPU574PXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO&IASHttpSessionId=RR20448720260101155241186367&ispcode=55
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/BC3C51E7-F1A5-46DE-979D-65DC483AE59C/0-16x9.jpg?width=1980" channel-number="26" group-title="RYANTV CHANNELS", Cinemax
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7a9c5215e364b809f148c2d6a7e3045:c92a3b4a7fe9fab97c130468260b963f
-https://ucdn.mediaquest.com.ph/bpk-tv/cg_cinemax/default/index.mpd
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/337_144.png" group-title="RYANTV CHANNELS", Cinemax
+http://136.239.173.10:6610/001/2/ch00000090990000001108/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BoD7Jkv0l3sE1jz6821dGRWytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001233&contentid=ch00000000000000001233&videoid=ch00000090990000001108&recommendtype=0&userid=1349825919509&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=LAO494UQ9QXXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/E55A7650-C9E1-11EC-9D64-0242AC120002/0-16x9.jpg?width=1980" channel-number="28" group-title="RYANTV CHANNELS", PBA Rush
 #KODIPROP:inputstream.adaptive.license_type=clearkey
