@@ -3,11 +3,34 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-name="Charlotte Hornets @ Miami Heat • Oct 29 at 7:30 AM PHT" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/nba/500/scoreboard/mia.png&w=64&h=64" group-title="NBA Live Games", Phil vs cavs• Oct 29 at 7:30 AM PHT
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_miamiheat/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MOVIES", ABC
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV LOCAL
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/22501.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS", ESPN
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15951.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15950.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN NEWS
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15952.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  ESPN U
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15949.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  TNT HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15955.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 1
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15929.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 2
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15928.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 3
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15927.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  TSN 5
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15925.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="MOVIES",  TRU TV
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/23243.ts?thanos1975
+#EXTINF:-1 tvg-logo="" group-title="SPORTS",  SPORTSNET ONE HD
+http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15930.ts?thanos1975
+
+
 
 @@@@@@@@@####@########@@
 #EXTM3U
