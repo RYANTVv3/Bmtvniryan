@@ -3,14 +3,14 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV CHANNELS", PBB 3.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV CHANNELS", PBB 3.0 all access
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV CHANNELS", PBB 3.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV CHANNELS", PBB 3.0 main live
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
