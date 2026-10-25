@@ -10,6 +10,15 @@ M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 #KODIPROP:inputstream.adaptive.license_key=5208606a1a5e4750bc7aaafa3bbad84c:246d9c7efc6d96d8d596aa294313e17b
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollab30allaccesslivestream/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/XUYL1105PA.jpg" group-title="RYANTV CHANNELS", PBB 3.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoybigbrothercollabedition30live/manifest.mpd
+
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ABC
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
