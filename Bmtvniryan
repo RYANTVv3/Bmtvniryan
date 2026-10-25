@@ -3,6 +3,14 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
+#EXTM3U
+#EXTINF:-1 tvg-name="PINOY BIG BROTHER COLLAB EDITION" group-title="RYANTV CHANNELS",PINOY BIG BROTHER COLLAB EDITION 30 LIVE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02b0d6aa78d547af890c9e27113e81af:890160f8ece56b8cd232889acb74e276
+https://abslive.akamaized.net/dash/live/2027618/pinoy.%20bigbrothercollabedition%2030live/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="" group-title="MOVIES", ABC
 http://206.212.242.21:8080/live/yE6zCZvWsg/8808243690/15956.ts?thanos1975
 #EXTINF:-1 tvg-logo="" group-title="SPORTS", NBA TV LOCAL
