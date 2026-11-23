@@ -5,8 +5,8 @@ M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
 #EXTM3U
 #EXTINF:-1 group-title="RYANTV CHANNELS",PBB xtra 3.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_key=b75e0a8315d0499b834c00a3d5b91935:39876c3c4f32a11dee56078febbb67dd
 https://absp-live.akamaized.net/dash/live/2099522/pbbcollaballaccesslivestream/manifest.mpd
 
