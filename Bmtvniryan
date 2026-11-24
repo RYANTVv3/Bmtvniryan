@@ -3,13 +3,42 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-
-#EXTINF:-1 group-title="RYANTV CHANNELS",PBB xtra 3.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b75e0a8315d0499b834c00a3d5b91935:39876c3c4f32a11dee56078febbb67dd
-https://absp-live.akamaized.net/dash/live/2099522/pbbcollaballaccesslivestream/manifest.mpd?hdntl=exp=1795501794~acl=/*~id=5fe6347a-2c8b-4f3d-beb6-93353d406ffa~data=hdntl~hmac=1dc8835e2e8ce7a13ac660685dfc3d98b0440be1a953fccd47a44a32f3c3eead&app_bundle=&app_name=iwant&app_store_url=&channel_name=PBBCollab30Extra&conparid=09f9149f-acaa-42ca-a18f-5e2735f5de6a&contentType=Live&content_id=09f9149f-acaa-42ca-a18f-5e2735f5de6a&content_livestream=1&content_producer_name=ABS-CBN&coppa=0&did=c08a7506-e3ef-57a6-9538-ed5c78e840d7&dnt=0&dur=50400&gdpr=0&gdpr_consent=0&genre=Reality&ifa_type=PPID&language=fil&lmt=0&network_name=ABS-CBN&pmxd={{POD_MAX_DUR_MILLIS}}&rating=PG&sid=5fe6347a-2c8b-4f3d-beb6-93353d406ffa&title=PBBCollab30Extra&ua=AmazonAPIGateway_ksrhkmmqge&url=https://www.iwanttfc.com/content/09f9149f-acaa-42ca-a18f-5e2735f5de6a&us_privacy=1---&sentinel=awaked
+#EXTINF:-1 tvg-id="zerostreams.4e05893217110266" tvg-name="NBA | Brooklyn Nets vs Minnesota Timberwolves" tvg-logo="https://static.ppvservices.st/assets/thumb/92975394a0b1fd9678498f056e3a1f86-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Brooklyn Nets vs Minnesota Timberwolves
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba5.m3u8
+#EXTINF:-1 tvg-id="zerostreams.9839392d458c9fcc" tvg-name="NBA | Cleveland Cavaliers vs Chicago Bulls" tvg-logo="https://static.ppvservices.st/assets/thumb/7c1f60709858aa6098794af1814a5085-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Cleveland Cavaliers vs Chicago Bulls
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba6.m3u8
+#EXTINF:-1 tvg-id="zerostreams.1a6a9aeb6646aa63" tvg-name="NBA | Los Angeles Clippers vs Houston Rockets" tvg-logo="https://static.ppvservices.st/assets/thumb/e75b6d08751a3671b0b059104b72825d-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Los Angeles Clippers vs Houston Rockets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba8.m3u8
+#EXTINF:-1 tvg-id="zerostreams.e603721945607098" tvg-name="NBA | Memphis Grizzlies vs Charlotte Hornets" tvg-logo="https://static.ppvservices.st/assets/thumb/234881f2cb32455111f7de60cb6324b5-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Memphis Grizzlies vs Charlotte Hornets
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f1320cc92c40b210" tvg-name="NBA | Milwaukee Bucks vs Toronto Raptors" tvg-logo="https://static.ppvservices.st/assets/thumb/dc7402b0c0c320bd0b888009a3fe33e1-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Milwaukee Bucks vs Toronto Raptors
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba4.m3u8
+#EXTINF:-1 tvg-id="zerostreams.61d479e63052c1ee" tvg-name="NBA | Phoenix Suns vs New Orleans Pelicans" tvg-logo="https://static.ppvservices.st/assets/thumb/a0c58a826b4d237fc05a3acb2139dba0-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Phoenix Suns vs New Orleans Pelicans
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/nba7.m3u8
+#EXTINF:-1 tvg-id="zerostreams.90e298ac81863038" tvg-name="NBA | Portland Trail Blazers vs Philadelphia 76ers" tvg-logo="https://static.ppvservices.st/assets/thumb/fdc55e13dae68ab9e50b4b19b9ce2263-thumbnail.jpg" group-title="NBA" x-stream-status="verified",NBA | Portland Trail Blazers vs Philadelphia 76ers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://tedesco.formaturamaxi.com.br/nba2.m3u8
+#EXTINF:-1 tvg-id="zerostreams.17e5e7ffe3f96966" tvg-name="NBA | San Antonio Spurs vs Sacramento Kings" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | San Antonio Spurs vs Sacramento Kings
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin.formaturamaxi.com.br/bucks.m3u8
+#EXTINF:-1 tvg-id="zerostreams.f711b92fe87a4639" tvg-name="NBA | Utah Jazz vs Los Angeles Lakers" tvg-logo="https://raw.githubusercontent.com/Zer0Spce/ZeroStreams/main/assets/logos/nba.png" group-title="NBA" x-stream-status="unverified",NBA | Utah Jazz vs Los Angeles Lakers
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/nba-streams-9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (compatible; LivePlaylist/1.0)
+https://admin2.formaturamaxi.com.br/nba9.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV CHANNELS", PBB 3.0 MAIN LIVE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
