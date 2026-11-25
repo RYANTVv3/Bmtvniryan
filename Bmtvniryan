@@ -8,7 +8,7 @@ M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
-https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
+https://abslive.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV CHANNELS", PBB 3.0 MAIN LIVE
