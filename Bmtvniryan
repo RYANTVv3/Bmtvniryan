@@ -3,6 +3,7 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/PrTB4457KIo.jpg" group-title="RYANTV CHANNELS", PBB live collab 3.0 extra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
