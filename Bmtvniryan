@@ -3,7 +3,7 @@
 M3U playlist 
 M3U billed-msg="M3U PLAYLIST BY: RYANTV"
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/iGp5266Np.jpg" group-title="RYANTV CHANNELS", PBB live collab 3.0 extra
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imghippo.com/files/PrTB4457KIo.jpg" group-title="RYANTV CHANNELS", PBB live collab 3.0 extra
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1044e7ece2d741bcafe80d8613da104f:f5e17f169ff05ea40c5d3f065f523942
 https://absp-live.akamaized.net/dash/live/2099522/pinoybigbrothercollabedition30live/manifest.mpd
